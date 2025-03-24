@@ -1,8 +1,8 @@
-This repository contains all the code and files used in the analyses reported in "Urban greenspaces benefit both human utility and biodiversity."
+This repository contains all the code and files used in the analyses reported in "Urban greenspaces benefit both human utility and biodiversity" article, which is published in Urban Forestry & Urban Greening.
 
 # R Folder
 
-Within this folder are three scripts to (1) summarize iNaturalist data by greenspace, (2) calculate the biodiversity index value, and (3) conduct the main analyses presented in the paper. The numbers calculated in these scripts may not perfectly align with those presented in the paper due to differences in randomization. However, values and figures will produce the same results as presented.
+Within this folder are three scripts to (1) summarize iNaturalist data by greenspace, (2) calculate the biodiversity index value, and (3) conduct the main analyses presented in the paper. There may be subtle differences in numbers calculated in these scripts due to differences in randomization.
 
 Additionally contained in this folder is a sub folder titled "Alternative_bio_use_calculation_methods." Here there are two scripts that are used to (1) calculate alternative methods to obtain the biodiversity index and (2) run the main analyses individually for each method.
 
@@ -20,7 +20,7 @@ Additionally contained in this folder is a sub folder titled "Alternative_bio_us
 
 **bio_use_predictors:** A folder containing CSV files that have biodiversity utility prediction values.
 
-**rasters:** A folder containing raster files of impervious cover, percent non-tree cover, tree cover, and water cover.
+**rasters:** A folder containing raster files of impervious cover, percent non-tree cover, tree cover, and water cover sourced from Google Earth Engine.
 
 **shapefiles:** A folder containing shapefiles on Broward County municipalities and urban parks.
 
