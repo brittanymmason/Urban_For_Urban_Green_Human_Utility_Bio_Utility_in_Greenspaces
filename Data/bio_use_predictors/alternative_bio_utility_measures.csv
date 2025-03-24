@@ -1,0 +1,640 @@
+poly_id,total_observations,total_observers,species_richness,predicted_richness_method1,predicted_richness_method2,predicted_richness_method3,predicted_richness_method4,predicted_richness_method5
+Broward_Anne Kolb Nature Center,1190,199,259,242.452945,246.020496,1,266.8967689,261.8986713
+Broward_Boulevard Gardens Community Center,0,0,NA,124.65601,NA,NA,NA,NA
+Broward_Brian Piccolo Sports Park & Velodrome,132,54,49,153.5173826,164.1735582,0.546789827,205.0967812,327.3384726
+Broward_CB Smith Park,348,47,141,185.7347197,184.9906904,0.829333136,213.6111725,272.0622512
+Broward_Central Broward Regional Park,394,15,166,120.7732273,134.744355,0.73200421,142.4176084,229.9135394
+Broward_Crystal Lake Sand Pine Scrub,449,41,124,146.848913,151.8061914,0.786197877,178.4779574,244.429358
+Broward_Deerfield Highlands Nature Preserve,8,4,6,122.8918763,129.1744955,0.361363248,NA,NA
+Broward_Deerfield Island Park,58,13,39,271.9373661,278.2479987,0.810099521,289.1081491,282.9022488
+Broward_Dillard Green Space,0,0,NA,122.7613114,NA,NA,NA,NA
+Broward_Easterlin Park,199,26,68,216.989791,225.5983902,0.833038132,258.4016087,270.7580395
+Broward_Everglades Holiday Park,381,82,137,236.030669,229.0261011,0.82878921,247.7566051,284.0409292
+Broward_Fern Forest Nature Center,2714,236,445,276.7164191,268.353748,0.895009111,275.1254066,265.6113846
+Broward_Franklin Park,0,0,NA,120.3250032,NA,NA,NA,NA
+Broward_Helene Klein Pineland Preserve,466,34,123,158.7311741,162.9356131,0.806032493,186.6057795,245.6774513
+Broward_Herman and Dorothy Shooster Nature Preserve,54,10,32,164.7566403,170.9846333,0.780709632,223.8662059,277.3822132
+Broward_Highlands Scrub Natural Area,227,24,95,139.1981179,144.3196076,0.782250537,173.2988338,242.1322253
+Broward_Hollywood North Beach Park,229,55,113,174.5381682,173.8463796,0.759661303,204.9719322,261.0056134
+Broward_Kristin Jacobs Natural Area at Hillsboro Pineland,496,42,178,209.9789608,216.5009628,0.842276794,236.3687423,266.9305392
+Broward_Lafayette Hart Park,0,0,NA,129.2588763,NA,NA,NA,NA
+Broward_Lewis-Chisom Park,0,0,NA,122.6275143,NA,NA,NA,NA
+Broward_Long Key Natural Area and Nature Center,1906,126,440,232.9855063,236.7028726,0.861903321,227.3277773,266.0583757
+Broward_Markham Park,2241,205,459,288.1654844,290.5825041,0.887424866,282.0673279,270.2100921
+Broward_Military Trail Nature Area,51,11,40,217.509481,215.9616038,0.77460698,259.6054933,290.7377748
+Broward_Miramar Pineland Natural Area,1763,36,372,153.1698789,152.1362611,0.714665528,161.4680058,239.8138719
+Broward_Pine Island Ridge Natural Area,222,47,122,218.12927,212.9681974,0.796258047,253.5721692,290.2256099
+Broward_Plantation Heritage Park,134,51,64,189.6971013,193.2343723,0.562143905,241.0821137,325.1471958
+Broward_Quiet Waters Park,1299,80,338,222.2418976,222.859667,0.802942887,227.1167386,280.3934223
+Broward_Reverend Samuel Delevoe Memorial Park,7,2,7,149.5444768,167.0272206,0.617337121,NA,NA
+Broward_Roosevelt Gardens Park,0,0,NA,132.3304683,NA,NA,NA,NA
+Broward_Saw Palmetto Natural Area,95,17,53,160.0470305,164.0369408,0.790998449,210.0390861,272.4913445
+Broward_Secret Woods Park,586,108,157,240.9610604,246.5556403,0.815547994,268.5640494,272.9166159
+Broward_Sewell Lock,0,0,NA,123.4601607,NA,NA,NA,NA
+Broward_Snake Warriors Island,507,27,196,147.8940662,156.5044091,0.799029222,166.166508,269.2642853
+Broward_South Fork Canoe Launch,0,0,NA,133.4884316,NA,NA,NA,NA
+Broward_Sunview Park,6,2,6,153.2408981,159.5239619,0.596459253,NA,NA
+Broward_Tall Cypress Natural Area,663,89,209,265.8863378,272.3521852,0.880086446,284.4843613,273.939844
+Broward_Topeekeegee Yugnee Park,702,83,194,189.6991129,189.2596748,0.820824113,220.559056,286.0325163
+Broward_Tradewinds Park,1296,172,280,274.278804,275.4461527,0.877767591,284.591143,274.8571875
+Broward_Tree Tops Park,2203,247,425,297.5567223,291.7815678,0.901402705,295.400743,274.1080502
+Broward_Vista View Park,330,86,143,202.2045962,200.7138061,0.711829885,230.7306247,302.1169511
+Broward_Washburn Park,0,0,NA,135.3668913,NA,NA,NA,NA
+Broward_West Creek Pineland Natural Area,56,11,37,140.7388348,146.05796900000001,0.762847253,188.4127199,269.3950439
+Broward_West Lake Park,153,35,85,172.6507631,175.9099863,0.774648618,213.0045125,288.5460929
+Broward_William J. Kelley Park,1,1,1,135.489818,149.5463843,0,NA,NA
+Broward_Woodmont Natural Area,344,19,99,170.2930276,173.8119409,0.798801889,185.0964726,263.5343026
+Coconut Creek_Coco Point Park,5,3,4,204.0991963,201.665864,0.460605907,NA,NA
+Coconut Creek_Community Center and Fitness Center South,88,16,27,120.25581,128.4899303,0.748395356,173.8570346,246.57029
+Coconut Creek_Cypress Park,97,6,62,201.9675046,202.0044829,0.831496518,218.2856687,258.2393484
+Coconut Creek_George S. Gerber Memorial Park,1123,6,201,104.3067995,109.6038251,0.725538232,154.984445,247.8309459
+Coconut Creek_Golden Raintree Park,0,0,NA,164.4682206,NA,NA,NA,NA
+Coconut Creek_Hosford Park,4,1,3,151.8037843,157.1357534,0.690441406,NA,NA
+Coconut Creek_Lakeside Park,10,3,10,155.0118203,158.7414994,0.650386207,NA,NA
+Coconut Creek_Lakewood Park,0,0,NA,145.1020872,NA,NA,NA,NA
+Coconut Creek_Oak Trails Park,0,0,NA,183.2507229,NA,NA,NA,NA
+Coconut Creek_Pond Apple Park,0,0,NA,186.2714287,NA,NA,NA,NA
+Coconut Creek_Recreation Complex and Fitness Center North,0,0,NA,133.6406048,NA,NA,NA,NA
+Coconut Creek_Rowe Activity Center and Donaldson Park,1,1,1,151.052921,154.0172587,0.042267684,NA,NA
+Coconut Creek_Sabal Pines Park,76,17,48,153.2123242,159.6733313,0.767630531,199.905557,271.7325771
+Coconut Creek_Sunshine Drive Park,0,0,NA,131.0297083,NA,NA,NA,NA
+Coconut Creek_Township Estates Park,0,0,NA,164.9329162,NA,NA,NA,NA
+Coconut Creek_Veterans Park,4,2,2,119.6669985,135.1719932,0.465611623,NA,NA
+Coconut Creek_Windmill Park and Dog Park,43,6,24,150.4713442,158.9946389,0.832257049,NA,NA
+Coconut Creek_Winston Park Nature Trail,85,9,40,200.1010218,205.1542247,0.844286255,242.8043085,271.996255
+Cooper City_Bill Lips Sports Complex,0,0,NA,141.8734724,NA,NA,NA,NA
+Cooper City_Chase Park,0,0,NA,160.227709,NA,NA,NA,NA
+Cooper City_Christie Schafale Park and Dog Park,0,0,NA,180.6646047,NA,NA,NA,NA
+Cooper City_Colony Park,0,0,NA,160.3028749,NA,NA,NA,NA
+Cooper City_Cooper's Point Park,0,0,NA,150.7779622,NA,NA,NA,NA
+Cooper City_Dawn Park,0,0,NA,152.1825417,NA,NA,NA,NA
+Cooper City_Diamond Head Park,0,0,NA,140.6260048,NA,NA,NA,NA
+Cooper City_Ellie Kozak Park,0,0,NA,205.0786572,NA,NA,NA,NA
+Cooper City_Encore Park,0,0,NA,150.1625573,NA,NA,NA,NA
+Cooper City_Flamingo Park,1,1,1,169.3868125,180.4893011,0.059079799,NA,NA
+Cooper City_Flamingo West Park,0,0,NA,138.9478986,NA,NA,NA,NA
+Cooper City_Forest Lake Park,2,2,2,146.0719817,161.5215415,0.048903609,NA,NA
+Cooper City_Homes of Forest Lake Park,0,0,NA,130.3270384,NA,NA,NA,NA
+Cooper City_Jerry Morgan Park,13,3,8,186.9242317,196.0920762,0.702226257,NA,NA
+Cooper City_Memorial Park,1,1,1,127.3668763,135.8648499,0.064499423,NA,NA
+Cooper City_Natalie's Cove Park,0,0,NA,139.6538989,NA,NA,NA,NA
+Cooper City_Pine Lake Park,0,0,NA,143.2968617,NA,NA,NA,NA
+Cooper City_Poinciana Park,0,0,NA,160.4159187,NA,NA,NA,NA
+Cooper City_Pool & Tennis Center Park,0,0,NA,139.4458729,NA,NA,NA,NA
+Cooper City_Stirling Palm Park,0,0,NA,142.6155839,NA,NA,NA,NA
+Cooper City_Suellen H. Fardelmann Sports Complex,3,1,1,136.8877987,150.4073759,0.053169289,NA,NA
+Cooper City_Tamarind Park,1,1,1,195.8346796,198.7606026,0.06503393,NA,NA
+Cooper City_Ted Ferone Park,0,0,NA,154.2400869,NA,NA,NA,NA
+Coral Springs_Betti Stradling Park,6,4,3,164.9224571,168.0601909,0.055983753,NA,NA
+Coral Springs_Castlewood Park,0,0,NA,152.4188308,NA,NA,NA,NA
+Coral Springs_Chevy Chase North Park,0,0,NA,150.0035258,NA,NA,NA,NA
+Coral Springs_Chevy Chase South Park,0,0,NA,154.7243771,NA,NA,NA,NA
+Coral Springs_Coral Springs Aquatic Complex,4,3,2,119.8067981,132.4407364,0.059483385,NA,NA
+Coral Springs_Countrywood Park,0,0,NA,151.6003021,NA,NA,NA,NA
+Coral Springs_Cypress Hammock,30,9,23,140.1566641,148.3230485,0.632486464,NA,NA
+Coral Springs_Cypress Park,26,9,14,145.8378391,153.1804714,0.621157533,NA,NA
+Coral Springs_Dede Gilmore Memorial Park,2,1,2,171.4785507,174.3928245,0.452567301,NA,NA
+Coral Springs_Eagle Ridge Park,16,3,9,154.3789781,157.697697,0.714208439,NA,NA
+Coral Springs_Fern Glen Park,17,4,11,187.9512752,196.430783,0.744755685,NA,NA
+Coral Springs_Forest Hills Park,19,4,14,148.1368592,157.2647012,0.716074773,NA,NA
+Coral Springs_Forest Hills West Park,0,0,NA,145.8712686,NA,NA,NA,NA
+Coral Springs_Jaycee Park,0,0,NA,152.3666025,NA,NA,NA,NA
+Coral Springs_Kiwanis Park,0,0,NA,159.3203775,NA,NA,NA,NA
+Coral Springs_Lakeview Park,5,1,5,181.3599108,185.9565013,0.791847893,NA,NA
+Coral Springs_Lions Park,3,2,3,150.2972449,155.4792218,0.291373867,NA,NA
+Coral Springs_Mullins Park,18,3,16,151.6512929,158.4433836,0.782805837,NA,NA
+Coral Springs_North Community Park,9,6,7,156.5454892,165.5247082,0.227981267,NA,NA
+Coral Springs_Orchid Park,35,11,19,168.7947451,175.5556468,0.550524794,NA,NA
+Coral Springs_Paul Barre Memorial Park,0,0,NA,151.2737052,NA,NA,NA,NA
+Coral Springs_Paul Britton Park,0,0,NA,132.7323486,NA,NA,NA,NA
+Coral Springs_Pine Glen Park,0,0,NA,161.2652653,NA,NA,NA,NA
+Coral Springs_Poinciana Park,5,2,4,147.0790215,153.0172116,0.437636439,NA,NA
+Coral Springs_Pride Promoters Park,0,0,NA,123.841878,NA,NA,NA,NA
+Coral Springs_Ralph Diaz Memorial Park,4,2,4,196.0132102,192.1380905,0.441508215,NA,NA
+Coral Springs_Richard D Petrillo Park,0,0,NA,154.8483915,NA,NA,NA,NA
+Coral Springs_Riverside Park,3,2,3,132.3348131,142.3157303,0.312920198,NA,NA
+Coral Springs_Running Brooke Hills Park,0,0,NA,142.2796052,NA,NA,NA,NA
+Coral Springs_Sandy Ridge Sanctuary,92,14,49,213.934387,217.7330671,0.830790047,260.6730689,278.9364083
+Coral Springs_Shadow Wood Park,0,0,NA,176.7179814,NA,NA,NA,NA
+Coral Springs_Sherwood Forest Park,15,6,11,220.1696691,217.8152385,0.56641108,NA,NA
+Coral Springs_Sportsplex Athletic Complex,0,0,NA,154.7396878,NA,NA,NA,NA
+Coral Springs_Three Friends Park,4,2,4,202.9383475,207.0767703,0.456594402,NA,NA
+Coral Springs_Three Mountains Natural Area,56,8,36,202.1060069,205.2113505,0.830561264,250.8198271,279.1310456
+Coral Springs_Turtle Run Park,0,0,NA,145.3687112,NA,NA,NA,NA
+Coral Springs_Village Green Park,0,0,NA,130.3031221,NA,NA,NA,NA
+Coral Springs_Volunteer Park,16,3,3,140.637571,151.709493,0.707837071,NA,NA
+Coral Springs_Westchester Park,27,11,18,193.4487882,193.0105249,0.492993853,NA,NA
+Coral Springs_Whispering Oaks Park,11,3,7,171.3090591,174.5955091,0.623078024,NA,NA
+Coral Springs_Whispering Woods,0,0,NA,157.2845682,NA,NA,NA,NA
+Coral Springs_Windings Park,0,0,NA,149.8159374,NA,NA,NA,NA
+Dania Beach_Chester Byrd Park,0,0,NA,137.9980755,NA,NA,NA,NA
+Dania Beach_CW Thomas Park,0,0,NA,138.0376262,NA,NA,NA,NA
+Dania Beach_Dania Beach Marina,7,5,5,135.2509246,139.9480093,0.302005935,NA,NA
+Dania Beach_Dania Cove Park,11,3,6,148.9752326,154.0217141,0.675124092,NA,NA
+Dania Beach_Frank C. Tootie Adler Park,12,9,11,101.1977878,106.3355995,0.215476939,NA,NA
+Dania Beach_Frost Park,29,4,22,136.2245876,151.2789796,0.810324984,NA,NA
+Dania Beach_Griffin Marine Park,0,0,NA,124.7975088,NA,NA,NA,NA
+Dania Beach_I.T. Parker Center,0,0,NA,179.0807576,NA,NA,NA,NA
+Dania Beach_Linear Park,0,0,NA,148.3995761,NA,NA,NA,NA
+Dania Beach_Meli-Griffin Park,0,0,NA,148.8056159,NA,NA,NA,NA
+Dania Beach_Mildred V. Jones Park,0,0,NA,133.5702009,NA,NA,NA,NA
+Dania Beach_Mullikin Park,0,0,NA,130.4154778,NA,NA,NA,NA
+Dania Beach_Northside Garden Park,0,0,NA,127.4008845,NA,NA,NA,NA
+Dania Beach_Ocean Park Beach,71,30,33,110.1964291,112.9448205,0.541186591,163.6139905,255.7628382
+Dania Beach_Southwest Community Center,0,0,NA,113.8332102,NA,NA,NA,NA
+Dania Beach_Tigertail Lake Park,10,8,6,97.27951983,107.7160008,0.144719114,NA,NA
+Dania Beach_Whiskey Creek Hideout,171,65,86,164.3155292,163.3799508,0.613260427,191.6628544,272.4002003
+Davie_Bergeron Park,2,2,2,162.0390568,172.7949343,0.071185533,NA,NA
+Davie_Berman Park,0,0,NA,201.1194075,NA,NA,NA,NA
+Davie_Betty Booth Roberts Park,5,1,3,119.9162813,128.8618703,0.611570892,NA,NA
+Davie_Davie Pine Island Park,22,15,11,132.3392896,139.0982628,0.2515401,NA,NA
+Davie_Driftwood Estates Park,2,2,1,153.400401,158.8596299,0.043549826,NA,NA
+Davie_East Davie Nature Park,0,0,NA,181.9180606,NA,NA,NA,NA
+Davie_Falcon Lea Park,5,2,4,144.9507582,152.6658572,0.714033173,NA,NA
+Davie_Firefighters Park,9,4,4,201.29914,201.2017101,0.384498584,NA,NA
+Davie_James Ale Memorial Park,0,0,NA,142.854946,NA,NA,NA,NA
+Davie_Joy Yoder Equestrian-West View Park,3,1,2,155.6958414,168.6432508,0.481887044,NA,NA
+Davie_Lange Park,46,6,23,147.0558319,155.8365768,0.812270055,NA,NA
+Davie_Liberty Park,3,2,3,144.0650817,148.6147975,0.29757869,NA,NA
+Davie_Math Igler Citrus Park,0,0,NA,152.0643045,NA,NA,NA,NA
+Davie_Oak Hill Equestrian Park,10,5,8,178.8563046,185.8531195,0.516236929,NA,NA
+Davie_Orange Drive Linear Park,62,21,43,136.0869384,140.9263754,0.645206207,187.1669401,276.7962408
+Davie_Owls Lookout Park,20,9,5,155.2035752,167.4531798,0.424896882,NA,NA
+Davie_Palomino Park,2,1,2,123.1558805,139.964796,0.453109728,NA,NA
+Davie_Peaceful Ridge Park,29,3,22,136.4333289,142.656933,0.827323409,NA,NA
+Davie_Potter Park,0,0,NA,121.1622839,NA,NA,NA,NA
+Davie_Reflections Park,0,0,NA,174.9052525,NA,NA,NA,NA
+Davie_Robbins Preserve,249,28,110,247.0175082,248.8186362,0.88444992,269.9719694,276.0843837
+Davie_Shenandoah Park,10,7,9,146.3222947,164.830902,0.230739448,NA,NA
+Davie_Silver Lake Park,34,10,28,232.6917766,243.3752602,0.662143966,NA,NA
+Davie_Sunny Lake Bird Sanctuary,23,9,18,163.9920537,170.4657451,0.508108005,NA,NA
+Davie_The Park at Waverly,0,0,NA,151.1350424,NA,NA,NA,NA
+Davie_Veterans Park,0,0,NA,145.8008069,NA,NA,NA,NA
+Davie_Waterford Park,3,3,3,143.3674926,153.0608085,0.046330478,NA,NA
+Davie_Wes Griffin Park,12,4,7,137.8361528,146.5779323,0.371850954,NA,NA
+Davie_Westridge Park,30,10,19,171.5207051,179.2468355,0.605673709,NA,NA
+Davie_Wolf Lake Park,501,49,181,254.9444654,256.5453097,0.858851214,263.4469485,299.1922533
+Deerfield Beach_Ada Graham-Johnson Park,0,0,NA,138.26779,NA,NA,NA,NA
+Deerfield Beach_Branhilda Richardson-Knowles Memorial Park,11,1,6,123.9978324,130.6526857,0.765419899,NA,NA
+Deerfield Beach_Central Crystal Heights,0,0,NA,148.5469255,NA,NA,NA,NA
+Deerfield Beach_Constitution & Arboretum Park,822,54,49,177.7311264,177.245005,0.521449455,226.8667304,308.1497736
+Deerfield Beach_Cornerstone Park,0,0,NA,120.4017449,NA,NA,NA,NA
+Deerfield Beach_Deer Run East,0,0,NA,150.8384874,NA,NA,NA,NA
+Deerfield Beach_Ecidar Park,0,0,NA,139.7469885,NA,NA,NA,NA
+Deerfield Beach_Highlands Park,0,0,NA,123.30898,NA,NA,NA,NA
+Deerfield Beach_Hillsboro Community Center,0,0,NA,129.299002,NA,NA,NA,NA
+Deerfield Beach_Johnie McKeithen Park,0,0,NA,152.1864105,NA,NA,NA,NA
+Deerfield Beach_Kirk Cottrell Pavilion,0,0,NA,113.4455663,NA,NA,NA,NA
+Deerfield Beach_Marty Popelsky Park,0,0,NA,158.5556716,NA,NA,NA,NA
+Deerfield Beach_Mayo Howard Park,0,0,NA,131.2653107,NA,NA,NA,NA
+Deerfield Beach_Middle School Athletic & Aquatic Complex,2,2,2,123.5223315,130.1819067,0.034560452,NA,NA
+Deerfield Beach_North Crystal Heights,0,0,NA,147.7839082,NA,NA,NA,NA
+Deerfield Beach_Oveta McKeithen Recreational Complex,0,0,NA,136.5371154,NA,NA,NA,NA
+Deerfield Beach_Pastor Willie James Ford Sr. Linear Park,0,0,NA,130.7224236,NA,NA,NA,NA
+Deerfield Beach_Pioneer Park,30,4,8,124.6353616,134.5835879,0.607904635,NA,NA
+Deerfield Beach_Riverglen Park,1,1,1,130.1129504,141.1566068,0.063251275,NA,NA
+Deerfield Beach_Riverview Park,0,0,NA,202.2150982,NA,NA,NA,NA
+Deerfield Beach_SE 15th St Park,0,0,NA,134.4610815,NA,NA,NA,NA
+Deerfield Beach_SE 19th Ave. Park,2,2,2,111.3225404,114.2793814,0.042708307,NA,NA
+Deerfield Beach_South Crystal Heights,0,0,NA,131.8896341,NA,NA,NA,NA
+Deerfield Beach_Sullivan Park,9,8,5,107.7539395,115.2318541,0.172384539,NA,NA
+Deerfield Beach_Teen Center,0,0,NA,121.9251853,NA,NA,NA,NA
+Deerfield Beach_Tivoli Sand Pines Preserve,2,2,2,147.0454936,156.4838426,0.049971907,NA,NA
+Deerfield Beach_Trailhead Linear Park,7,3,5,112.0375854,119.4643031,0.565537867,NA,NA
+Deerfield Beach_Trailhead Park,3,2,2,120.6123316,123.8673866,0.052349946,NA,NA
+Deerfield Beach_Villages of Hillsboro Park,16,8,10,157.971868,172.219024,0.400017801,NA,NA
+Deerfield Beach_Wedding Deck,49,21,31,107.8689276,114.5556938,0.473179873,NA,NA
+Fort Lauderdale_4201 N. Ocean Blvd,0,0,NA,117.2485464,NA,NA,NA,NA
+Fort Lauderdale_520 SW 31st Ave,0,0,NA,162.5422555,NA,NA,NA,NA
+Fort Lauderdale_Ann Herman Park,2,2,2,163.8794742,166.6043647,0.055297215,NA,NA
+Fort Lauderdale_Annie Beck Park,15,9,8,158.1687863,163.3982614,0.246167941,NA,NA
+Fort Lauderdale_Bass Park,0,0,NA,127.7886912,NA,NA,NA,NA
+Fort Lauderdale_Bayview Park,8,5,5,138.1311847,144.8183539,0.302890731,NA,NA
+Fort Lauderdale_Beach Community Center,1,1,1,107.4049853,112.7537744,0.045357396,NA,NA
+Fort Lauderdale_Benenson Park,0,0,NA,119.3959742,NA,NA,NA,NA
+Fort Lauderdale_Bill Keith Preserve,19,6,15,164.7252431,159.0946069,0.649798658,NA,NA
+Fort Lauderdale_Bryant Peney Park,0,0,NA,128.6634326,NA,NA,NA,NA
+Fort Lauderdale_Bubier Park,30,9,10,114.1462608,115.6549418,0.578967755,NA,NA
+Fort Lauderdale_Carter Park-Sunland Park,2,2,2,124.2831995,132.2336276,0.038447927,NA,NA
+Fort Lauderdale_Cliff Lake Park,4,4,4,138.3848501,150.0013605,0.057974127,NA,NA
+Fort Lauderdale_Colee Hammock Park,5,4,3,157.4189701,162.0865724,0.299538275,NA,NA
+Fort Lauderdale_Coontie Hatchee Park,1,1,1,155.3542286,166.4086912,0.060494736,NA,NA
+Fort Lauderdale_Coral Ridge Park,0,0,NA,123.9855039,NA,NA,NA,NA
+Fort Lauderdale_Croissant Park,0,0,NA,129.0801229,NA,NA,NA,NA
+Fort Lauderdale_Cypress Creek Sand Pine Preserve,199,3,90,108.1096475,115.2444966,0.669161731,134.4130976,228.0143306
+Fort Lauderdale_D.C. Alexander Park,7,3,5,112.1374001,113.2892825,0.323474544,NA,NA
+Fort Lauderdale_Dottie Mancini Park,1,1,1,114.7305516,116.3660487,0.02754976,NA,NA
+Fort Lauderdale_Dr. Elizabeth Hays Civic Park,10,1,5,140.0008284,145.0878005,0.777786251,NA,NA
+Fort Lauderdale_Earl Lifshey Park,0,0,NA,113.2538372,NA,NA,NA,NA
+Fort Lauderdale_Esplanade Park,8,7,3,126.0004451,124.4617952,0.028474627,NA,NA
+Fort Lauderdale_Esterre Davis Wright Park,6,1,4,193.9039001,190.3475646,0.805832367,NA,NA
+Fort Lauderdale_Flamingo Park,0,0,NA,129.9071783,NA,NA,NA,NA
+Fort Lauderdale_Floranda Elementary School Park,0,0,NA,112.4276739,NA,NA,NA,NA
+Fort Lauderdale_Florence C. Hardy Park,2,2,1,128.4879222,139.7688538,0.042510009,NA,NA
+Fort Lauderdale_Floyd Hull Stadium,1,1,1,139.2870517,151.785839,0.047331183,NA,NA
+Fort Lauderdale_Fort Lauderdale Beach Park,81,38,36,101.4930037,109.9253887,0.419973903,161.9249399,250.4189252
+Fort Lauderdale_Francis L. Abreu Place,1,1,1,143.9830902,152.1702888,0.040900751,NA,NA
+Fort Lauderdale_George English Park,33,18,21,108.3940786,113.9475065,0.392008008,NA,NA
+Fort Lauderdale_Gore Betz Park,2,1,2,129.5244986,141.5117918,0.454716957,NA,NA
+Fort Lauderdale_Greenfield Park,0,0,NA,114.6163882,NA,NA,NA,NA
+Fort Lauderdale_Guthrie Blake Memorial Park,1,1,1,121.6631832,128.8523589,0.032079142,NA,NA
+Fort Lauderdale_Harbordale Park,0,0,NA,114.6596606,NA,NA,NA,NA
+Fort Lauderdale_Hector Park,0,0,NA,128.5201182,NA,NA,NA,NA
+Fort Lauderdale_Holiday Park,113,16,35,128.6008894,138.2759696,0.798144936,175.0379999,259.7750108
+Fort Lauderdale_Hortt Park,4,3,3,141.7091362,148.3343958,0.307320759,NA,NA
+Fort Lauderdale_Idlewyld Park-Merle Fogg Park,1,1,1,111.4345663,114.8878925,0.042178919,NA,NA
+Fort Lauderdale_Imperial Point Entranceway,0,0,NA,114.8143471,NA,NA,NA,NA
+Fort Lauderdale_Jack and Harriet Kaye Park,0,0,NA,130.6482941,NA,NA,NA,NA
+Fort Lauderdale_Las Olas Oceanside Park,6,2,2,111.693719,112.0429622,0.035582942,NA,NA
+Fort Lauderdale_Lauderdale Manors Park,0,0,NA,124.9500865,NA,NA,NA,NA
+Fort Lauderdale_Lauderdale Villas Entranceway,0,0,NA,130.8072177,NA,NA,NA,NA
+Fort Lauderdale_Lewis Landing Park,5,1,2,218.4648446,218.7314931,0.460101977,NA,NA
+Fort Lauderdale_Lincoln Park,3,1,2,132.5188519,137.9034308,0.429250392,NA,NA
+Fort Lauderdale_Little Lincoln Park,0,0,NA,120.531628,NA,NA,NA,NA
+Fort Lauderdale_Lockhart Park,0,0,NA,112.8308624,NA,NA,NA,NA
+Fort Lauderdale_Loggerhead Park,0,0,NA,113.2186357,NA,NA,NA,NA
+Fort Lauderdale_Lu Deaner Park,0,0,NA,111.610597,NA,NA,NA,NA
+Fort Lauderdale_Major William M. Lauderdale Park,6,3,4,147.462621,152.2772427,0.234304137,NA,NA
+Fort Lauderdale_Mangurian Park-Coral Ridge Country Club,4,4,4,145.2219698,154.7752387,0.041344281,NA,NA
+Fort Lauderdale_Marshall Point,0,0,NA,116.500607,NA,NA,NA,NA
+Fort Lauderdale_Middle River Terrace Park,0,0,NA,132.8954213,NA,NA,NA,NA
+Fort Lauderdale_Mills Pond Park,94,13,46,161.5281838,161.3399531,0.793290712,206.797252,284.8505333
+Fort Lauderdale_Mitchell Family Park,0,0,NA,140.5468362,NA,NA,NA,NA
+Fort Lauderdale_Northfork Riverfront Park,2,1,2,122.7968119,131.4985622,0.443862742,NA,NA
+Fort Lauderdale_Osswald Park,1,1,1,139.7451869,160.36197430000001,0.0381607,NA,NA
+Fort Lauderdale_Palm Aire Park,1,1,1,130.0044563,143.9837885,0.065713028,NA,NA
+Fort Lauderdale_Palm Aire Village Park,0,0,NA,114.3484915,NA,NA,NA,NA
+Fort Lauderdale_Peter Feldman Park,45,3,13,113.9921321,115.3488977,0.786620926,NA,NA
+Fort Lauderdale_Poinciana Park,0,0,NA,129.4618201,NA,NA,NA,NA
+Fort Lauderdale_Provident Park,0,0,NA,129.9770138,NA,NA,NA,NA
+Fort Lauderdale_Purple Pickle Park,0,0,NA,118.2379071,NA,NA,NA,NA
+Fort Lauderdale_Riverland Park,0,0,NA,128.2121846,NA,NA,NA,NA
+Fort Lauderdale_Riverland Preserve,0,0,NA,190.197445,NA,NA,NA,NA
+Fort Lauderdale_Riverland Woods Park,2,1,2,131.3052482,139.5825553,0.442024948,NA,NA
+Fort Lauderdale_Riverside Park,10,3,10,158.9388486,168.370886,0.694612373,NA,NA
+Fort Lauderdale_Riverwalk Linear Park,5,5,3,114.7504034,116.1416773,0.033639167,NA,NA
+Fort Lauderdale_Sailboat Bend Preserve,36,7,26,178.6470902,190.4514167,0.731901435,NA,NA
+Fort Lauderdale_Sara Horn Greenway,0,0,NA,131.8723932,NA,NA,NA,NA
+Fort Lauderdale_Shirley Small-Melrose Park,1,1,1,160.0935965,167.0428266,0.040022716,NA,NA
+Fort Lauderdale_Sistrunk Park,0,0,NA,112.8856894,NA,NA,NA,NA
+Fort Lauderdale_Smoker Park,35,6,18,114.0329525,115.55009,0.777811313,NA,NA
+Fort Lauderdale_Snyder Park,257,62,102,163.6374075,167.9938109,0.68925517,207.6566296,298.2234783
+Fort Lauderdale_South Intracoastal Park,3,2,3,111.4556877,112.9957624,0.283043677,NA,NA
+Fort Lauderdale_South Middle River Park,0,0,NA,141.7666966,NA,NA,NA,NA
+Fort Lauderdale_Stranahan Park,17,4,9,117.2852923,122.0093639,0.503472288,NA,NA
+Fort Lauderdale_Sunset School Park,0,0,NA,136.1264022,NA,NA,NA,NA
+Fort Lauderdale_SW 5th Ct and SW 12th Ave Park,10,2,8,169.1840682,177.9443262,0.775850617,NA,NA
+Fort Lauderdale_Sweeting Park,0,0,NA,147.7470248,NA,NA,NA,NA
+Fort Lauderdale_Tarpon Cove Park,8,2,6,151.2235155,159.0954315,0.62911036,NA,NA
+Fort Lauderdale_Tarpon River Park,0,0,NA,134.9660976,NA,NA,NA,NA
+Fort Lauderdale_Townsend Park,5,3,4,121.1290503,131.9629163,0.350157434,NA,NA
+Fort Lauderdale_Tranquility Park,0,0,NA,110.9872001,NA,NA,NA,NA
+Fort Lauderdale_Twin Lakes North Park,0,0,NA,113.8689817,NA,NA,NA,NA
+Fort Lauderdale_Victoria Park,11,4,7,159.4511883,164.2350221,0.518533727,NA,NA
+Fort Lauderdale_Virginia Shuman Young Elementary Park,0,0,NA,129.563624,NA,NA,NA,NA
+Fort Lauderdale_Virginia Young Park,0,0,NA,140.4948129,NA,NA,NA,NA
+Fort Lauderdale_Vista Park,0,0,NA,113.2479241,NA,NA,NA,NA
+Fort Lauderdale_Walker Park (Walker Elementary School),0,0,NA,124.5513452,NA,NA,NA,NA
+Fort Lauderdale_Warbler Wetlands,4,1,3,151.2094338,159.0027296,0.696839141,NA,NA
+Fort Lauderdale_Warfield Park,0,0,NA,122.9465349,NA,NA,NA,NA
+Fort Lauderdale_Waverly Property,0,0,NA,156.6778645,NA,NA,NA,NA
+Fort Lauderdale_Welcome Park,0,0,NA,112.8097632,NA,NA,NA,NA
+Fort Lauderdale_Westwood Heights Triangle Park (Westwood Heights Elementary School),0,0,NA,135.2346349,NA,NA,NA,NA
+Fort Lauderdale_Willingham Park,0,0,NA,113.2186357,NA,NA,NA,NA
+Hallandale Beach_B.F. James Park and Pool,0,0,NA,125.1271368,NA,NA,NA,NA
+Hallandale Beach_Curci House-Historical Village,0,0,NA,138.5091726,NA,NA,NA,NA
+Hallandale Beach_Foster Park & Plaza,1,1,1,130.729235,137.8243635,0.041641928,NA,NA
+Hallandale Beach_Golden Isles Park,0,0,NA,129.2295147,NA,NA,NA,NA
+Hallandale Beach_Gulfstream Academy (HACC) Athletic Fields,0,0,NA,120.8473819,NA,NA,NA,NA
+Hallandale Beach_Hallandale City Park,1,1,1,128.7832902,137.9072214,0.048190081,NA,NA
+Hallandale Beach_Ingalls Park,5,2,4,150.7732279,155.6474953,0.530229156,NA,NA
+Hallandale Beach_Joseph Scavo Park,0,0,NA,165.9216283,NA,NA,NA,NA
+Hallandale Beach_OB Johnson Park,0,0,NA,127.0147368,NA,NA,NA,NA
+Hallandale Beach_South City Beach Park,39,3,13,105.9003021,111.331078,0.764374186,NA,NA
+Hallandale Beach_Sunrise Park,0,0,NA,126.3657705,NA,NA,NA,NA
+Hallandale Beach_Sunset Park,0,0,NA,126.736852,NA,NA,NA,NA
+Hollywood_Anniversary Park,0,0,NA,113.5313533,NA,NA,NA,NA
+Hollywood_Bicentennial Park,0,0,NA,154.9829709,NA,NA,NA,NA
+Hollywood_Bob Butterworth Park,1,1,1,136.5100662,143.9841284,0.043259903,NA,NA
+Hollywood_Carlton Montayne Park,0,0,NA,145.9067877,NA,NA,NA,NA
+Hollywood_Cathy & Bob Anderson Park,0,0,NA,121.2755648,NA,NA,NA,NA
+Hollywood_Charles F. Vollman Park,3,2,3,150.3403339,153.2609329,0.284698491,NA,NA
+Hollywood_Charnow Park-Historical Paddleball Courts,9,6,7,107.9105499,112.9043632,0.328494257,NA,NA
+Hollywood_Earl Crofford Park,0,0,NA,141.8030998,NA,NA,NA,NA
+Hollywood_Emerald Hills Lakes Park & Dog Park,1,1,1,162.4352849,163.7678669,0.029508967,NA,NA
+Hollywood_Eppelman Park,0,0,NA,111.8856554,NA,NA,NA,NA
+Hollywood_Fletcher Street Park,0,0,NA,116.7280587,NA,NA,NA,NA
+Hollywood_Harry Berry Park,0,0,NA,114.9038044,NA,NA,NA,NA
+Hollywood_Henry L. Graham Park,0,0,NA,130.5074521,NA,NA,NA,NA
+Hollywood_Holland Park,113,15,38,206.872202,214.7640905,0.897451909,228.6758572,262.08705
+Hollywood_Hollywood West Skate Park,0,0,NA,141.3042643,NA,NA,NA,NA
+Hollywood_Jefferson Park,0,0,NA,125.6114435,NA,NA,NA,NA
+Hollywood_Joe DiMaggio Park,4,1,2,152.2335547,163.149415,0.71512465,NA,NA
+Hollywood_John B. Kooser Memorial Park & Exercise Trail,0,0,NA,157.7159371,NA,NA,NA,NA
+Hollywood_John Williams Park-Sheridan Oak Forest,31,10,22,193.5410275,198.8764269,0.589768968,NA,NA
+Hollywood_Keating Park,0,0,NA,111.8844856,NA,NA,NA,NA
+Hollywood_Kiwanis Park,0,0,NA,130.1902539,NA,NA,NA,NA
+Hollywood_Lincoln Park,0,0,NA,129.4285608,NA,NA,NA,NA
+Hollywood_Lions Park,5,1,4,147.2770344,160.6760876,0.761813352,NA,NA
+Hollywood_Mara Berman Giulianti Park in Emerald Hills,0,0,NA,127.7181323,NA,NA,NA,NA
+Hollywood_Montella Park,0,0,NA,161.085456,NA,NA,NA,NA
+Hollywood_Oak Lake Park,11,5,8,156.231288,162.2129625,0.500091522,NA,NA
+Hollywood_Oakridge Park & Dog Park,11,2,9,171.4631645,177.9198602,0.821349373,NA,NA
+Hollywood_Oakwood Hills Park,1,1,1,130.8796931,144.1827791,0.062638063,NA,NA
+Hollywood_Poinciana Park & Poinciana Dog Park,0,0,NA,137.9285057,NA,NA,NA,NA
+Hollywood_Rainbow Tot Lot,0,0,NA,141.0353588,NA,NA,NA,NA
+Hollywood_Rose's Garden,2,1,2,122.5459286,131.2562204,0.439657525,NA,NA
+Hollywood_Rotary Park,0,0,NA,143.6344611,NA,NA,NA,NA
+Hollywood_Sailor's Point,0,0,NA,165.6379887,NA,NA,NA,NA
+Hollywood_Sal Oliveri Veterans Park,0,0,NA,129.9214197,NA,NA,NA,NA
+Hollywood_Seminole Park,0,0,NA,149.7775021,NA,NA,NA,NA
+Hollywood_Stan Goldman Memorial Park,15,11,11,149.5748266,155.5709758,0.21379051,NA,NA
+Hollywood_Water View Park,0,0,NA,148.4567806,NA,NA,NA,NA
+Hollywood_Zinkil Park,6,1,6,166.0443799,171.6619532,0.765393982,NA,NA
+Lauderdale by the Sea_El Prado Park,0,0,NA,109.2698942,NA,NA,NA,NA
+Lauderdale by the Sea_Friedt Park,0,0,NA,110.9621402,NA,NA,NA,NA
+Lauderdale by the Sea_Washingtonia Park,4,4,4,108.285608,112.793596,0.042560126,NA,NA
+Lauderdale Lakes_Cypress Preserve Conservation Park,0,0,NA,148.2161683,NA,NA,NA,NA
+Lauderdale Lakes_Northgate Neighborhood Park,0,0,NA,115.4647317,NA,NA,NA,NA
+Lauderdale Lakes_Otis Grey Neighborhood Park,0,0,NA,149.4587154,NA,NA,NA,NA
+Lauderdale Lakes_Vincent Torres Memorial Park,0,0,NA,138.8855605,NA,NA,NA,NA
+"Lauderdale Lakes_Willie L. Webb, Sr. Park",0,0,NA,139.3447511,NA,NA,NA,NA
+Lauderhill_17th Street Park,0,0,NA,128.1591652,NA,NA,NA,NA
+Lauderhill_Boulevard Woods Park,0,0,NA,140.8957927,NA,NA,NA,NA
+Lauderhill_Herbert Sadkin Community Center,0,0,NA,113.0240078,NA,NA,NA,NA
+Lauderhill_Ilene Lieberman Botanical Gardens,0,0,NA,151.854198,NA,NA,NA,NA
+Lauderhill_Jackie Gleason Park,0,0,NA,149.1975194,NA,NA,NA,NA
+Lauderhill_James D. Bradley Jr. Park,0,0,NA,130.4596464,NA,NA,NA,NA
+Lauderhill_John E. Mullin Park & The Lauderhill Aquatic Center,5,2,3,131.5225509,140.4581318,0.52721796,NA,NA
+Lauderhill_Lauderhill 6-12 School Field,0,0,NA,127.4472409,NA,NA,NA,NA
+Lauderhill_Lauderhill Sports Park,0,0,NA,123.1252656,NA,NA,NA,NA
+Lauderhill_Maye Frances Brooks Jenkins Park,0,0,NA,125.0436516,NA,NA,NA,NA
+Lauderhill_Meditation Park,4,4,4,198.5451294,199.8496414,0.0598026,NA,NA
+Lauderhill_Renaissance Park,0,0,NA,137.5787487,NA,NA,NA,NA
+Lauderhill_Ruth Rothkopf Park,0,0,NA,130.1192717,NA,NA,NA,NA
+Lauderhill_South Gateway Park,0,0,NA,123.2857591,NA,NA,NA,NA
+Lauderhill_St. George Community Park,0,0,NA,130.6135587,NA,NA,NA,NA
+Lauderhill_Veterans Park,0,0,NA,152.1752734,NA,NA,NA,NA
+Lauderhill_Walter Wally Elfers Park & Lauderhill Historical Museum,0,0,NA,124.4978677,NA,NA,NA,NA
+Lauderhill_Waterford Park,0,0,NA,138.5251742,NA,NA,NA,NA
+Lauderhill_West Ken Lark Park,0,0,NA,141.6387968,NA,NA,NA,NA
+Lauderhill_Westwind Park,6,2,6,152.8195953,157.4000508,0.619419315,NA,NA
+Lauderhill_Windermere Community Center,0,0,NA,119.8077258,NA,NA,NA,NA
+Lauderhill_Wolk Park,0,0,NA,121.7038297,NA,NA,NA,NA
+Lighthouse Point_Dan Witt Park,0,0,NA,113.2920907,NA,NA,NA,NA
+Lighthouse Point_De Groff Park,16,6,11,136.6171614,138.5585669,0.46503787,NA,NA
+Lighthouse Point_Frank McDonough Park,0,0,NA,123.3138885,NA,NA,NA,NA
+Margate_Andrews Field,0,0,NA,151.3025241,NA,NA,NA,NA
+Margate_Centennial Park,0,0,NA,154.6930078,NA,NA,NA,NA
+Margate_Coral Gate Park,0,0,NA,137.1207505,NA,NA,NA,NA
+Margate_David Park,0,0,NA,121.9561935,NA,NA,NA,NA
+Margate_Firefighters Park,0,0,NA,129.8316,NA,NA,NA,NA
+Margate_Kaye Stevens Park,0,0,NA,147.1839224,NA,NA,NA,NA
+Margate_Legacy Park,0,0,NA,130.0355503,NA,NA,NA,NA
+Margate_Lemon Tree Lake Park,0,0,NA,112.0999437,NA,NA,NA,NA
+Margate_Margate Sports Complex,0,0,NA,130.3632906,NA,NA,NA,NA
+Margate_Oriole Park,0,0,NA,132.1799566,NA,NA,NA,NA
+Margate_Rock Island Fitness Park,0,0,NA,121.9111338,NA,NA,NA,NA
+Margate_Royal Palm Park,0,0,NA,136.1127422,NA,NA,NA,NA
+Margate_Serino Park,0,0,NA,130.5648674,NA,NA,NA,NA
+Margate_Southeast Park,0,0,NA,162.9776644,NA,NA,NA,NA
+Margate_Southgate Park,0,0,NA,135.7809811,NA,NA,NA,NA
+Margate_Veterans Memorial Park,0,0,NA,130.6733138,NA,NA,NA,NA
+Margate_Vinson Park,0,0,NA,143.4821212,NA,NA,NA,NA
+Margate_Winfield Park,0,0,NA,124.4362631,NA,NA,NA,NA
+Miramar_19th Street Park,0,0,NA,115.7656436,NA,NA,NA,NA
+Miramar_Ansin Sports Complex,17,11,7,134.752806,149.5717724,0.147919845,NA,NA
+Miramar_Beauty Park,0,0,NA,128.6630756,NA,NA,NA,NA
+Miramar_Beekman Park,0,0,NA,142.2715931,NA,NA,NA,NA
+Miramar_Bernard Park,0,0,NA,138.7501246,NA,NA,NA,NA
+Miramar_Civic Center Park,0,0,NA,129.8872372,NA,NA,NA,NA
+Miramar_Country Club Ranches,0,0,NA,129.556701,NA,NA,NA,NA
+Miramar_Fairway Park,15,5,8,152.1823101,158.727186,0.534219255,NA,NA
+Miramar_Flamingo Estates Park,2,1,1,170.0894116,175.0463145,0.052033583,NA,NA
+Miramar_Forcina Field,0,0,NA,137.4868509,NA,NA,NA,NA
+Miramar_Forzano Field,3,3,2,138.0593443,146.6880037,0.044196497,NA,NA
+Miramar_Harbour Lakes,0,0,NA,120.6420469,NA,NA,NA,NA
+Miramar_Historic Miramar Aquatic Complex,0,0,NA,130.0480662,NA,NA,NA,NA
+Miramar_Huntington Park North & South,2,1,2,157.0142766,157.473867,0.449917446,NA,NA
+Miramar_Island Park,3,3,3,167.1472594,177.4553102,0.037615856,NA,NA
+Miramar_Lakeshore Park,0,0,NA,126.5788376,NA,NA,NA,NA
+Miramar_Linear Park North & South,2,1,2,123.4440064,133.4977004,0.448875964,NA,NA
+Miramar_Miramar Athletic Park,0,0,NA,140.6674969,NA,NA,NA,NA
+Miramar_Miramar Isles Park,3,1,3,125.9624526,137.8184681,0.629227137,NA,NA
+Miramar_Miramar Regional Park,12,10,11,125.8997407,135.4857081,0.167231918,NA,NA
+Miramar_Monarch Lakes Park,0,0,NA,132.8544646,NA,NA,NA,NA
+Miramar_Perry Park-Wellman Field,0,0,NA,145.7267923,NA,NA,NA,NA
+Miramar_Progress Park,0,0,NA,143.4099853,NA,NA,NA,NA
+Miramar_River Run Park,0,0,NA,187.8993445,NA,NA,NA,NA
+Miramar_Sawyer Park,0,0,NA,128.2782098,NA,NA,NA,NA
+Miramar_Sheraton Park,0,0,NA,150.0016054,NA,NA,NA,NA
+Miramar_Shirley Branca Park,0,0,NA,131.0282897,NA,NA,NA,NA
+Miramar_Silver Lakes Tennis Complex,1,1,1,154.0430195,160.7578635,0.044506658,NA,NA
+Miramar_Silver Shores Park,0,0,NA,139.6195066,NA,NA,NA,NA
+Miramar_Veteran's Memorial Park,1,1,1,149.2170515,154.6444686,0.054336775,NA,NA
+Miramar_Vizcaya Park,3,2,2,134.8331127,139.182387,0.315506866,NA,NA
+North Lauderdale_Bicentennial Park,0,0,NA,133.9242154,NA,NA,NA,NA
+North Lauderdale_Braeburn Park,0,0,NA,135.5911029,NA,NA,NA,NA
+North Lauderdale_Broadview Community Park,0,0,NA,134.3139158,NA,NA,NA,NA
+North Lauderdale_Carl Fusco Park,0,0,NA,122.6028184,NA,NA,NA,NA
+North Lauderdale_Champions Hall Park,0,0,NA,124.6373466,NA,NA,NA,NA
+North Lauderdale_Hampton Pines Park,179,17,58,186.4538607,188.3382434,0.834590025,208.8998667,259.8791806
+North Lauderdale_Highland Park,0,0,NA,154.5499986,NA,NA,NA,NA
+North Lauderdale_Jaycee Park,0,0,NA,146.9888732,NA,NA,NA,NA
+North Lauderdale_Landings Park,0,0,NA,139.0734876,NA,NA,NA,NA
+North Lauderdale_North Lauderdale Field,0,0,NA,138.3095759,NA,NA,NA,NA
+North Lauderdale_North Lauderdale Sports Complex,0,0,NA,133.2955354,NA,NA,NA,NA
+North Lauderdale_Pompano Park,0,0,NA,153.6473706,NA,NA,NA,NA
+North Lauderdale_Silver Lakes Park,0,0,NA,129.006795,NA,NA,NA,NA
+North Lauderdale_TOT Park,0,0,NA,140.1490085,NA,NA,NA,NA
+North Lauderdale_Veterans Memorial,0,0,NA,123.6800794,NA,NA,NA,NA
+North Lauderdale_Woodville Park,0,0,NA,133.7508614,NA,NA,NA,NA
+Oakland Park_Bark Park,0,0,NA,111.9250813,NA,NA,NA,NA
+Oakland Park_Cherry Creek Park,0,0,NA,129.1688941,NA,NA,NA,NA
+Oakland Park_Dr. Carter G. Woodson Park,0,0,NA,117.5536898,NA,NA,NA,NA
+Oakland Park_Greenleaf Park,0,0,NA,124.0446627,NA,NA,NA,NA
+Oakland Park_Jaco Pastorius Park,31,9,20,113.6715967,114.5406156,0.515673329,NA,NA
+Oakland Park_Lakeside Sand Pine Preserve,124,4,63,110.278751,109.1323176,0.744049674,124.0125095,219.5510477
+Oakland Park_Lloyd Estates Park,0,0,NA,131.0199951,NA,NA,NA,NA
+Oakland Park_North Andrews Gardens Neighborhood Park,0,0,NA,114.2347753,NA,NA,NA,NA
+Oakland Park_North Andrews Gardens Volunteer Park,0,0,NA,112.2126374,NA,NA,NA,NA
+Oakland Park_Richard E. Giusti Heart Park,0,0,NA,116.0011534,NA,NA,NA,NA
+Oakland Park_Stevens Field,7,1,7,120.3051053,118.2365578,0.773400688,NA,NA
+Oakland Park_Stunson Nature Trail,201,26,67,158.9427099,165.1053208,0.817738457,194.8652877,257.0077119
+Oakland Park_Veterans Park,6,1,4,149.6548874,160.264608,0.716733308,NA,NA
+Oakland Park_Wimberly Fields Park,20,2,15,111.1371464,110.9828166,0.780094411,NA,NA
+Parkland_Barkland Dog Park,4,2,3,138.5675471,150.3239349,0.466826448,NA,NA
+Parkland_Covered Bridge Park,5,2,3,179.9074484,185.3861044,0.727744488,NA,NA
+Parkland_Doris Davis Forman Wilderness Preserve,105,10,48,180.9247268,179.2034932,0.830039062,220.1920875,273.1732258
+Parkland_Equestrian Center at Temple Park,3,3,2,164.665086,172.9029788,0.06480365,NA,NA
+Parkland_John H. Quigley Park - Parkland Tennis Center,0,0,NA,128.4180522,NA,NA,NA,NA
+Parkland_Liberty Park,23,5,19,149.0519399,160.7158968,0.848520598,NA,NA
+Parkland_Pine Trails Park,187,13,90,133.6151441,137.1295901,0.78606262,166.0510552,251.4064122
+Parkland_Six Acre Woods Park,40,7,35,183.622733,192.2781891,0.802032834,NA,NA
+Parkland_Terramar Park,18,3,11,149.9072434,158.6739614,0.82754339,NA,NA
+Pembroke Park_Patrick Behan Park,0,0,NA,118.4061877,NA,NA,NA,NA
+Pembroke Park_Raymond P. Olgesby Preserve-Pembroke Park Preserve,0,0,NA,145.4773763,NA,NA,NA,NA
+Pembroke Pines_108th Avenue Park,0,0,NA,150.9897507,NA,NA,NA,NA
+Pembroke Pines_111th Avenue Park,0,0,NA,133.8203297,NA,NA,NA,NA
+Pembroke Pines_Alhambra Park,0,0,NA,137.9758218,NA,NA,NA,NA
+Pembroke Pines_Ashley Hale Park,0,0,NA,165.5320129,NA,NA,NA,NA
+Pembroke Pines_Ben Fiorendino Park,118,10,71,191.3954917,192.16942,0.862445152,216.4819281,248.9386305
+Pembroke Pines_Chapel Trail Nature Preserve,784,70,204,241.7926639,241.8728903,0.86098716,243.6214831,262.8941211
+Pembroke Pines_Chapel Trail Park,4,2,4,145.6123619,154.4430254,0.465847076,NA,NA
+Pembroke Pines_Cinnamon Place,0,0,NA,150.3723161,NA,NA,NA,NA
+Pembroke Pines_Craig Rupp K-9 Dog Park,2,1,2,203.2504946,213.3467339,0.46972627,NA,NA
+Pembroke Pines_Fahey Park,19,1,7,116.5277273,127.8825693,0.80783629,NA,NA
+Pembroke Pines_Flamingo Park,3,1,3,155.0391811,155.1452429,0.615218592,NA,NA
+Pembroke Pines_Fletcher Park,0,0,NA,124.9115052,NA,NA,NA,NA
+Pembroke Pines_Jack McCluskey Rainbow Park,0,0,NA,136.51208,NA,NA,NA,NA
+Pembroke Pines_Linear Park,85,3,42,147.0532366,150.7940648,0.766569735,168.2561187,241.9130732
+Pembroke Pines_Memorial Park,0,0,NA,118.8086191,NA,NA,NA,NA
+Pembroke Pines_Pasadena Park,0,0,NA,131.6575342,NA,NA,NA,NA
+Pembroke Pines_Paul J. Maxwell Park,0,0,NA,138.8926179,NA,NA,NA,NA
+Pembroke Pines_Pembroke Lakes Golf and Tennis Center,16,8,12,216.8654679,219.0780003,0.431224369,NA,NA
+Pembroke Pines_Pembroke Shores Park,0,0,NA,135.9722741,NA,NA,NA,NA
+Pembroke Pines_Pines Recreation Center,0,0,NA,142.8039442,NA,NA,NA,NA
+Pembroke Pines_Raintree Park,0,0,NA,139.2154124,NA,NA,NA,NA
+Pembroke Pines_Rose G. Price Park,32,5,11,174.0764148,180.819056,0.736427504,NA,NA
+Pembroke Pines_Silver Lakes Park North,31,10,18,185.3648757,188.953998,0.704175822,NA,NA
+Pembroke Pines_Silver Lakes Park South,0,0,NA,134.8467382,NA,NA,NA,NA
+Pembroke Pines_Spring Valley Park,66,2,30,104.1238946,102.3818816,0.7360834,118.6865077,218.5392576
+Pembroke Pines_Steven L. Josias Dog and Equestrian Park,0,0,NA,141.7469937,NA,NA,NA,NA
+Pembroke Pines_Tanglewood Park,9,3,6,130.6278997,138.8455803,0.741498619,NA,NA
+Pembroke Pines_Towngate Park,0,0,NA,139.8903177,NA,NA,NA,NA
+Pembroke Pines_Walden Lakes Park,0,0,NA,147.2081658,NA,NA,NA,NA
+Pembroke Pines_Walnut Creek Park,0,0,NA,138.2999653,NA,NA,NA,NA
+Pembroke Pines_West Pines Soccer Park and Preserve,8,1,8,155.5002276,170.8623083,0.846499799,NA,NA
+Pembroke Pines_William B. Armstrong Dream Park,116,5,58,114.8372094,118.2354429,0.77360746,129.2782811,225.4760531
+Plantation_Coco Plum Park,0,0,NA,184.4493355,NA,NA,NA,NA
+Plantation_Country Club Park,0,0,NA,141.9514036,NA,NA,NA,NA
+Plantation_Deicke Park,9,6,5,164.7568625,180.201812,0.31450278,NA,NA
+Plantation_Fig Tree Park,12,6,9,188.9108318,192.8574272,0.519234472,NA,NA
+Plantation_Fumpston Park,0,0,NA,144.7386223,NA,NA,NA,NA
+Plantation_Hoffman Park,70,2,53,106.869605,114.819946,0.763538474,145.7444088,256.8613127
+Plantation_Jacaranda Lakes Park,22,3,12,189.3098199,191.8924382,0.833990256,NA,NA
+Plantation_Jack Carter Harmony Park,0,0,NA,149.9921261,NA,NA,NA,NA
+Plantation_Jim Ward Park,0,0,NA,153.1325333,NA,NA,NA,NA
+Plantation_Marcano Estates Park,0,0,NA,174.9000584,NA,NA,NA,NA
+Plantation_Melaleuca Park,0,0,NA,143.769396,NA,NA,NA,NA
+Plantation_Mini Park North,0,0,NA,150.6443524,NA,NA,NA,NA
+Plantation_Mini Park South,0,0,NA,122.4264765,NA,NA,NA,NA
+Plantation_Mirror Lake Park,0,0,NA,184.0714472,NA,NA,NA,NA
+Plantation_Multicultural Park,0,0,NA,142.5979078,NA,NA,NA,NA
+Plantation_PAL Park-Roy Salmon Stadium,0,0,NA,147.5067989,NA,NA,NA,NA
+Plantation_Park East Park,0,0,NA,171.4972229,NA,NA,NA,NA
+Plantation_Park East Trailhead,0,0,NA,123.1292878,NA,NA,NA,NA
+Plantation_Pine Island Park,0,0,NA,150.9931301,NA,NA,NA,NA
+Plantation_Plantation Acres,0,0,NA,186.1704344,NA,NA,NA,NA
+Plantation_Plantation Botanical Garden,16,6,3,208.2162191,206.2973954,0.535400505,NA,NA
+Plantation_Plantation Business Park,0,0,NA,120.5748365,NA,NA,NA,NA
+Plantation_Plantation Central Park,193,36,47,154.2115108,162.019837,0.794133874,199.2488684,279.0591127
+Plantation_Plantation North Acres,14,5,10,197.4691264,195.5325687,0.600840042,NA,NA
+Plantation_Plantation Point Park,0,0,NA,156.0569822,NA,NA,NA,NA
+Plantation_Plantation Preserve Park & Linear Trail,959,95,282,210.2424367,217.2704598,0.844407818,243.1031967,278.0943551
+Plantation_Plantation Woods-Kennedy Park,14,8,12,160.0683878,172.7344561,0.405523071,NA,NA
+Plantation_Pop Travers Park,0,0,NA,154.8576016,NA,NA,NA,NA
+Plantation_Rae Carole Armstrong Liberty Tree Park,8,4,7,159.3177383,165.8555349,0.516638451,NA,NA
+Plantation_Seminole Park,9,8,4,140.6598386,149.8946388,0.05901405,NA,NA
+Plantation_South Bel Air Park,0,0,NA,171.0860587,NA,NA,NA,NA
+Plantation_Sunset Park,4,3,4,147.707135,158.1976729,0.227624153,NA,NA
+Plantation_Tara Park,8,3,8,212.3917808,215.3457102,0.586446592,NA,NA
+Plantation_Thrower Park,0,0,NA,209.2889197,NA,NA,NA,NA
+Plantation_Veterans Park,13,2,7,153.5462868,157.9589337,0.668087294,NA,NA
+Plantation_Volunteer Park,442,40,115,153.5340637,157.92637,0.830044889,187.5717595,258.1588425
+Plantation_Woodbury Park,1,1,1,148.2361965,161.3525211,0.062685865,NA,NA
+Pompano Beach_Annie Adderly Gillis Park,0,0,NA,124.8158842,NA,NA,NA,NA
+Pompano Beach_Apollo Park,0,0,NA,137.7659875,NA,NA,NA,NA
+Pompano Beach_Avondale Park,0,0,NA,132.7130498,NA,NA,NA,NA
+Pompano Beach_Bill Keith Park,4,2,2,113.0342386,113.5202176,0.421140804,NA,NA
+Pompano Beach_Canine Corner Dog Park,9,4,6,134.1799947,141.2114413,0.501662216,NA,NA
+Pompano Beach_Centennial Park,0,0,NA,123.9201089,NA,NA,NA,NA
+Pompano Beach_Coleman Park,0,0,NA,125.535155,NA,NA,NA,NA
+Pompano Beach_Cresthaven Park,0,0,NA,123.7458037,NA,NA,NA,NA
+Pompano Beach_Exchange Club Park,15,4,13,145.367581,153.1125419,0.660747709,NA,NA
+Pompano Beach_Fairview Park,0,0,NA,118.8850433,NA,NA,NA,NA
+Pompano Beach_Founders Park,0,0,NA,118.7003465,NA,NA,NA,NA
+Pompano Beach_George Brummer Park,2,1,2,120.7894362,132.0744676,0.484145018,NA,NA
+Pompano Beach_Harbor's Edge Park,19,7,11,145.2273249,145.300083,0.485641347,NA,NA
+Pompano Beach_Highlands Park,0,0,NA,129.4289173,NA,NA,NA,NA
+Pompano Beach_Hillsboro Inlet Park,7,6,6,110.4584353,114.7396021,0.154437441,NA,NA
+Pompano Beach_Hunters Manor Park,0,0,NA,138.2476729,NA,NA,NA,NA
+Pompano Beach_Indian Mound Park,0,0,NA,111.6403921,NA,NA,NA,NA
+Pompano Beach_Jackson Park,0,0,NA,128.8471843,NA,NA,NA,NA
+Pompano Beach_Kestler Field,0,0,NA,142.2270487,NA,NA,NA,NA
+Pompano Beach_Lake Santa Barbara Park,0,0,NA,112.3440117,NA,NA,NA,NA
+Pompano Beach_Lovely Park,0,0,NA,123.4357985,NA,NA,NA,NA
+Pompano Beach_Marine Drive Park,0,0,NA,112.5548941,NA,NA,NA,NA
+Pompano Beach_McNab Park,14,1,9,106.9529674,106.2638517,0.780964829,NA,NA
+Pompano Beach_McNair Park & Recreation Center,0,0,NA,139.9692359,NA,NA,NA,NA
+Pompano Beach_Mitchell Moore Park-Westside Park,0,0,NA,130.7250108,NA,NA,NA,NA
+Pompano Beach_North Ocean Park,3,1,2,108.4623331,112.8580647,0.435361568,NA,NA
+Pompano Beach_North Pompano Park,0,0,NA,136.1503574,NA,NA,NA,NA
+Pompano Beach_North Riverside Park,0,0,NA,126.7898423,NA,NA,NA,NA
+Pompano Beach_Novelty Park,0,0,NA,128.2043978,NA,NA,NA,NA
+Pompano Beach_S.E. 13 Street Park,0,0,NA,105.8910804,NA,NA,NA,NA
+Pompano Beach_S.E. 15 Street Park,0,0,NA,112.4361116,NA,NA,NA,NA
+Pompano Beach_Sand and Spurs Equestrian Park,0,0,NA,127.9219412,NA,NA,NA,NA
+Pompano Beach_Sandspur Park,1,1,1,138.8435339,145.321934,0.028828364,NA,NA
+Pompano Beach_Scott Winters Memorial Park,0,0,NA,112.4910348,NA,NA,NA,NA
+Pompano Beach_Sergeant Kip Jacoby Park,13,3,6,116.1127992,117.0432069,0.413329725,NA,NA
+Pompano Beach_Sgt. Chris Reyka Memorial Park,0,0,NA,114.4925895,NA,NA,NA,NA
+Southwest Ranches_Calusa Corners Park,0,0,NA,153.2427497,NA,NA,NA,NA
+Southwest Ranches_Country Estates Fishing Hole Park,13,4,9,186.4300624,189.9424959,0.741129597,NA,NA
+Southwest Ranches_Frontier Trails Park,19,5,12,245.0171175,239.7380267,0.712422482,NA,NA
+Southwest Ranches_Rolling Oaks Park,20,5,17,196.6405565,208.4027022,0.732216977,NA,NA
+Southwest Ranches_Southwest Meadows Sanctuary,9,2,7,181.9707784,190.2440876,0.731986823,NA,NA
+Southwest Ranches_Sunshine Ranches Equestrian Park,23,6,9,126.7839575,147.1904226,0.76867559,NA,NA
+Southwest Ranches_Trailside Park,0,0,NA,135.8161677,NA,NA,NA,NA
+Sunrise_City Park,0,0,NA,136.6142788,NA,NA,NA,NA
+Sunrise_Cypress Preserve Park,133,9,56,139.9347017,143.6333175,0.815985581,172.1454663,249.6051279
+Sunrise_Flamingo Park,279,27,51,152.8613923,157.9838598,0.780524798,202.3660205,272.115905
+Sunrise_Flamingo Road Linear Park,2,1,2,125.6120697,130.4141394,0.448390194,NA,NA
+Sunrise_Lakeside Park,0,0,NA,138.068465,NA,NA,NA,NA
+Sunrise_Nob Hill Soccer Club Park,4,2,3,123.1827314,127.40215070000001,0.457604603,NA,NA
+Sunrise_Oak Hammock-Passive Park,298,44,101,153.3584487,157.2958404,0.79663672,195.0232999,259.9958057
+Sunrise_Oscar Wind Park,9,2,7,173.9181774,178.9134497,0.849162874,NA,NA
+Sunrise_Pawgrass at Welleby Park,8,4,6,178.7266841,186.7960139,0.419743726,NA,NA
+Sunrise_Sawgrass Sanctuary Park,36,9,23,161.6946449,168.0983931,0.685219334,NA,NA
+Sunrise_Shotgun Road Linear Park,0,0,NA,136.9917997,NA,NA,NA,NA
+Sunrise_Sunrise Athletic Complex,85,8,44,154.5396835,168.5323341,0.867039948,200.8802774,264.700373
+Sunrise_Sunrise Golf Village Park,0,0,NA,122.3449332,NA,NA,NA,NA
+Sunrise_Sunrise Sportsplex,41,3,7,149.7793447,157.035415,0.66784015,NA,NA
+Sunrise_Sunrise Tennis Club,0,0,NA,132.7045637,NA,NA,NA,NA
+Sunrise_Village Square Park,0,0,NA,116.9729456,NA,NA,NA,NA
+Sunrise_Welleby Park,8,6,7,162.5026873,170.4535351,0.287939181,NA,NA
+Tamarac_Caporella Aquatic Center,0,0,NA,110.2330053,NA,NA,NA,NA
+Tamarac_Caporella Park,0,0,NA,139.267201,NA,NA,NA,NA
+Tamarac_Mainlands Park,0,0,NA,151.1696053,NA,NA,NA,NA
+Tamarac_Sunset Point Park,0,0,NA,169.2102456,NA,NA,NA,NA
+Tamarac_Swim Central Annex Park,0,0,NA,112.8890921,NA,NA,NA,NA
+Tamarac_Tamarac Recreation Center,0,0,NA,125.2461647,NA,NA,NA,NA
+Tamarac_Tamarac Sports Complex,0,0,NA,140.0409925,NA,NA,NA,NA
+Tamarac_Tamarac Veterans Park-Dog Park,18,4,13,149.7806411,157.4895295,0.681775969,NA,NA
+Tamarac_Tephford Park,76,9,20,129.8951039,137.9175634,0.828857036,168.4165978,249.662757
+Tamarac_Waters Edge Park,35,2,8,120.4373084,127.4897852,0.693814199,NA,NA
+West Park_Mary Saunders Park,0,0,NA,142.817557,NA,NA,NA,NA
+West Park_McTyre Park,0,0,NA,126.2992221,NA,NA,NA,NA
+West Park_Water Tower Park,0,0,NA,130.7625645,NA,NA,NA,NA
+Weston_Bonaventure Park,0,0,NA,126.8438318,NA,NA,NA,NA
+Weston_Country Isles Park,0,0,NA,204.7860283,NA,NA,NA,NA
+Weston_Eagle Point Park,0,0,NA,148.617732,NA,NA,NA,NA
+Weston_Emerald Estates Park,96,14,50,192.9823173,193.7123491,0.826791615,217.8143012,268.973581
+Weston_Gator Run Park,4,3,4,156.878022,159.857383,0.236469841,NA,NA
+Weston_Heron Park,0,0,NA,174.3299527,NA,NA,NA,NA
+Weston_Indian Trace Park,5,2,4,131.4229202,141.8992052,0.734974993,NA,NA
+Weston_Library Park,0,0,NA,123.3215074,NA,NA,NA,NA
+Weston_Peace Mound Park,42,12,14,263.2336232,269.133224,0.550791789,NA,NA
+Weston_Regional Park,27,13,12,122.8904908,138.9771249,0.384822097,NA,NA
+Weston_Tequestra Trace Park,8,8,7,142.6537242,158.3702734,0.060375088,NA,NA
+Weston_Town Center Park,35,11,17,146.6751088,155.1545337,0.52016775,NA,NA
+Weston_Vista Park,12,5,6,129.386863,140.3030821,0.386595616,NA,NA
+Weston_Weston Racquet Club,7,2,5,124.6864396,143.1984877,0.653335897,NA,NA
+Weston_Windmill Ranch Park,0,0,NA,150.0674676,NA,NA,NA,NA
+Wilton Manors_Colohatchee Park,12,7,8,177.6421701,182.5378427,0.354718495,NA,NA
+Wilton Manors_Donn Eisele Park,0,0,NA,122.2069563,NA,NA,NA,NA
+Wilton Manors_Hagen Park,8,3,6,116.2247002,125.8254566,0.517375447,NA,NA
+Wilton Manors_Island City Park Preserve,0,0,NA,116.24856,NA,NA,NA,NA
+Wilton Manors_M.E. DePalma Park,0,0,NA,124.4960627,NA,NA,NA,NA
+Wilton Manors_Mickel Park,0,0,NA,124.9653676,NA,NA,NA,NA
+Wilton Manors_Richardson Historic Park and Nature Preserve,124,37,61,138.386252,146.4553483,0.642135001,188.970824,266.9207437

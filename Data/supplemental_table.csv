@@ -1,0 +1,640 @@
+Municipality,Park Name,Park Size (ha),Number of iNaturalist Observations,Number of iNaturalist Users,Predicted Richness,Human Utility Attribute Index
+Undefined,Anne Kolb Nature Center,375.99,1120,189,248.78,0.57
+Undefined,Brian Piccolo Sports Park & Velodrome,87.91,127,52,169.6,0.86
+Undefined,CB Smith Park,131.32,331,46,192.55,0.86
+Undefined,Central Broward Regional Park,45.89,381,14,129.52,0.57
+Undefined,Crystal Lake Sand Pine Scrub,10.13,442,40,153.57,0.29
+Undefined,Deerfield Highlands Nature Preserve,4.2,7,4,124.36,0.43
+Undefined,Deerfield Island Park,23.32,52,11,268.01,0.43
+Undefined,Easterlin Park,21.71,173,25,220.9,0.71
+Undefined,Everglades Holiday Park,10.45,339,71,238.72,0.43
+Undefined,Fern Forest Nature Center,99.73,2635,235,263.4,0.43
+Undefined,Helene Klein Pineland Preserve,5.19,463,34,160.37,0.43
+Undefined,Herman and Dorothy Shooster Nature Preserve,13.81,53,9,180.23,0.43
+Undefined,Highlands Scrub Natural Area,14.48,222,23,147.93,0.43
+Undefined,Hollywood North Beach Park,23.65,220,53,189.72,0.43
+Undefined,Kristin Jacobs Natural Area at Hillsboro Pineland,17.48,487,42,215.39,0.43
+Undefined,Long Key Natural Area and Nature Center,69.66,1871,120,233.97,0.57
+Undefined,Markham Park,333.14,2042,189,277.11,1
+Undefined,Military Trail Nature Area,8.2,51,11,224.74,0.29
+Undefined,Miramar Pineland Natural Area,68.55,1758,36,152.38,0.57
+Undefined,Pine Island Ridge Natural Area,43.99,198,37,221.18,0.57
+Undefined,Plantation Heritage Park,35.55,119,47,198.81,0.71
+Undefined,Quiet Waters Park,187.51,1195,73,218.58,0.86
+Undefined,Reverend Samuel Delevoe Memorial Park,13.84,7,2,155.93,0.86
+Undefined,Saw Palmetto Natural Area,4.68,92,16,172.4,0.43
+Undefined,Secret Woods Park,22.46,569,106,234.46,0.43
+Undefined,Snake Warriors Island,22.48,494,26,157.93,0.57
+Undefined,Sunview Park,8.21,6,2,167.1,0.57
+Undefined,Tall Cypress Natural Area,28.2,657,88,268.42,0.43
+Undefined,Topeekeegee Yugnee Park,57.47,561,78,192.63,0.86
+Undefined,Tradewinds Park,151.19,763,93,278.88,0.71
+Undefined,Tree Tops Park,104.07,2102,236,293.8,0.86
+Undefined,Vista View Park,160.72,314,83,210.92,0.71
+Undefined,West Creek Pineland Natural Area,11.18,53,10,147.57,0.57
+Undefined,West Lake Park,72.94,146,32,181.74,0.71
+Undefined,William J. Kelley Park,17.09,1,1,139.68,0.43
+Undefined,Woodmont Natural Area,8.63,331,19,168.9,0.29
+Coconut Creek,Coco Point Park,18.95,4,2,212.56,0.57
+Coconut Creek,Community Center and Fitness Center South,4.5,62,13,126.56,0.86
+Coconut Creek,Cypress Park,5.05,91,6,192.57,0.57
+Coconut Creek,George S. Gerber Memorial Park,4.05,1090,5,110.49,0.57
+Coconut Creek,Hosford Park,1.63,4,1,161.08,0.29
+Coconut Creek,Lakeside Park,3.35,10,3,166.94,0.29
+Coconut Creek,Rowe Activity Center and Donaldson Park,1.79,1,1,163.87,0.71
+Coconut Creek,Sabal Pines Park,22.2,72,15,167.3,1
+Coconut Creek,Veterans Park,0.87,2,1,126,0.14
+Coconut Creek,Windmill Park and Dog Park,5.49,41,5,161.55,0.86
+Coconut Creek,Winston Park Nature Trail,12.51,80,9,214.34,0.86
+Cooper City,Flamingo Park,1.33,1,1,185.35,0.71
+Cooper City,Forest Lake Park,3.27,2,2,173.08,0.57
+Cooper City,Jerry Morgan Park,4.56,11,3,200.49,0.29
+Cooper City,Memorial Park,2.58,1,1,138.87,0.43
+Cooper City,Suellen H. Fardelmann Sports Complex,14.16,1,1,160,0.57
+Cooper City,Tamarind Park,2.27,1,1,209.92,0.71
+Coral Springs,Betti Stradling Park,10.31,4,4,182.26,0.71
+Coral Springs,Coral Springs Aquatic Complex,11.24,3,3,121.33,0.43
+Coral Springs,Cypress Hammock,5.03,27,9,160.15,0.57
+Coral Springs,Cypress Park,12.76,24,8,160.91,0.86
+Coral Springs,Dede Gilmore Memorial Park,1.86,2,1,179.22,0.43
+Coral Springs,Eagle Ridge Park,1.01,12,3,169.98,0.43
+Coral Springs,Fern Glen Park,7.55,13,3,203.31,0.71
+Coral Springs,Forest Hills Park,2.61,17,4,167.05,0.43
+Coral Springs,Lakeview Park,3.18,5,1,195.5,0.57
+Coral Springs,Lions Park,1.88,3,2,163.49,0.57
+Coral Springs,Mullins Park,16.14,18,3,167.96,0.71
+Coral Springs,North Community Park,14.74,8,6,171.32,0.71
+Coral Springs,Orchid Park,1.66,27,11,184.15,0.43
+Coral Springs,Poinciana Park,3.66,4,2,158.86,0.57
+Coral Springs,Ralph Diaz Memorial Park,2.84,4,2,193.35,0.43
+Coral Springs,Riverside Park,6.05,3,2,137.35,0.57
+Coral Springs,Sandy Ridge Sanctuary,16.02,87,13,225.23,0.43
+Coral Springs,Sherwood Forest Park,6.35,15,6,223.97,0.57
+Coral Springs,Three Friends Park,2.3,4,2,212.02,0.29
+Coral Springs,Three Mountains Natural Area,9.08,56,8,210.49,0.29
+Coral Springs,Volunteer Park,6.97,8,2,164.67,0.71
+Coral Springs,Westchester Park,14.66,24,11,198.51,0.57
+Coral Springs,Whispering Oaks Park,2.33,9,3,184.54,0.43
+Dania Beach,Dania Beach Marina,2.51,6,4,137.88,0.14
+Dania Beach,Dania Cove Park,1.9,7,2,165.89,0.43
+Dania Beach,Frank C. Tootie Adler Park,1.87,12,9,105.09,0.57
+Dania Beach,Frost Park,3.68,28,4,164.18,0.71
+Dania Beach,Ocean Park Beach,3.8,70,29,113.65,0.43
+Dania Beach,Tigertail Lake Park,13.96,10,8,102.76,0.57
+Dania Beach,Whiskey Creek Hideout,22.36,168,62,176.53,0.43
+Davie,Bergeron Park,2.28,2,2,184.69,0.43
+Davie,Betty Booth Roberts Park,2.67,3,1,124.8,0.57
+Davie,Davie Pine Island Park,45.07,19,14,155.78,0.71
+Davie,Driftwood Estates Park,3.86,2,2,166.22,0.43
+Davie,Falcon Lea Park,3.29,4,1,157.88,0.29
+Davie,Firefighters Park,2.26,7,4,205.82,0.29
+Davie,Joy Yoder Equestrian-West View Park,5.95,2,1,177.81,0.29
+Davie,Lange Park,2.36,29,5,165.38,0.29
+Davie,Liberty Park,0.82,3,2,153.72,0.43
+Davie,Oak Hill Equestrian Park,4.23,9,4,201.25,0.43
+Davie,Orange Drive Linear Park,31.51,59,19,140.7,0.14
+Davie,Owls Lookout Park,2.59,11,6,176.6,0.29
+Davie,Palomino Park,1.4,2,1,144.61,0.43
+Davie,Peaceful Ridge Park,3.48,26,2,156.99,0.14
+Davie,Robbins Preserve,67.33,210,24,250.63,0.29
+Davie,Shenandoah Park,7.1,9,7,172.95,0.57
+Davie,Silver Lake Park,15.9,33,10,232.05,0.57
+Davie,Sunny Lake Bird Sanctuary,8.78,19,8,174.4,0.57
+Davie,Waterford Park,2.2,3,3,159.44,0.57
+Davie,Wes Griffin Park,1.6,7,4,153.69,0.57
+Davie,Westridge Park,16.38,28,10,195.96,0.29
+Davie,Wolf Lake Park,19.75,492,47,237.54,0.57
+Deerfield Beach,Branhilda Richardson-Knowles Memorial Park,1.42,6,1,124.24,0.14
+Deerfield Beach,Constitution & Arboretum Park,3.74,86,37,182.92,0.57
+Deerfield Beach,Middle School Athletic & Aquatic Complex,6.19,2,2,125.89,0.29
+Deerfield Beach,Pioneer Park,6.33,9,3,131.09,0.71
+Deerfield Beach,Riverglen Park,0.37,1,1,139.06,0.29
+Deerfield Beach,SE 19th Ave. Park,0.42,2,2,110.26,0.57
+Deerfield Beach,Sullivan Park,1.34,6,5,111.02,0.43
+Deerfield Beach,Tivoli Sand Pines Preserve,9.58,2,2,165.75,0.43
+Deerfield Beach,Trailhead Linear Park,4.33,6,2,121.54,0.14
+Deerfield Beach,Trailhead Park,0.26,2,2,121.05,0.29
+Deerfield Beach,Villages of Hillsboro Park,4.41,14,8,176.4,1
+Deerfield Beach,Wedding Deck,3,44,20,112.68,0.14
+Fort Lauderdale,Ann Herman Park,0.4,2,2,180.68,0.57
+Fort Lauderdale,Annie Beck Park,0.9,11,8,165.78,0.29
+Fort Lauderdale,Bayview Park,2.95,8,5,142.43,0.43
+Fort Lauderdale,Beach Community Center,0.59,1,1,108.47,0
+Fort Lauderdale,Bill Keith Preserve,1.58,18,5,160.6,0.57
+Fort Lauderdale,Bubier Park,1.18,18,6,112.96,0.43
+Fort Lauderdale,Carter Park-Sunland Park,8.91,2,2,127.87,0.71
+Fort Lauderdale,Cliff Lake Park,0.51,4,4,163.04,0.14
+Fort Lauderdale,Colee Hammock Park,0.52,3,2,169.57,0.29
+Fort Lauderdale,Coontie Hatchee Park,1.09,1,1,169.01,0.71
+Fort Lauderdale,Cypress Creek Sand Pine Preserve,4.99,197,3,115.11,0.14
+Fort Lauderdale,D.C. Alexander Park,0.39,5,3,107.5,0.57
+Fort Lauderdale,Dottie Mancini Park,0.51,1,1,108.8,0.57
+Fort Lauderdale,Dr. Elizabeth Hays Civic Park,1.08,7,1,146.32,0.43
+Fort Lauderdale,Esplanade Park,1.11,4,4,126.95,0.43
+Fort Lauderdale,Esterre Davis Wright Park,0.44,6,1,202.09,0.43
+Fort Lauderdale,Florence C. Hardy Park,3.31,1,1,134.62,0.57
+Fort Lauderdale,Floyd Hull Stadium,4.2,1,1,163.18,0.57
+Fort Lauderdale,Fort Lauderdale Beach Park,13.1,76,37,106.83,0.57
+Fort Lauderdale,Francis L. Abreu Place,0.26,1,1,154.11,0.14
+Fort Lauderdale,George English Park,11.46,27,14,118.46,0.86
+Fort Lauderdale,Gore Betz Park,0.79,2,1,137.78,0.57
+Fort Lauderdale,Guthrie Blake Memorial Park,0.46,1,1,123.13,0.29
+Fort Lauderdale,Holiday Park,34.45,84,9,141.68,0.86
+Fort Lauderdale,Hortt Park,2.54,3,2,161.09,0.57
+Fort Lauderdale,Idlewyld Park-Merle Fogg Park,0.45,1,1,110.29,0.29
+Fort Lauderdale,Las Olas Oceanside Park,1.11,2,2,107.87,0.29
+Fort Lauderdale,Lewis Landing Park,0.62,2,1,225.91,0.43
+Fort Lauderdale,Lincoln Park,1.42,2,1,142.61,0.57
+Fort Lauderdale,Major William M. Lauderdale Park,0.29,4,3,164.72,0.14
+Fort Lauderdale,Mangurian Park-Coral Ridge Country Club,86.73,4,4,166.47,0.57
+Fort Lauderdale,Mills Pond Park,67.02,67,11,169.56,0.57
+Fort Lauderdale,Northfork Riverfront Park,0.72,2,1,128.95,0.14
+Fort Lauderdale,Osswald Park,10.79,1,1,160.87,0.71
+Fort Lauderdale,Palm Aire Park,0.1,1,1,136.39,0.14
+Fort Lauderdale,Peter Feldman Park,0.46,25,3,112.59,0.43
+Fort Lauderdale,Riverland Woods Park,2.14,2,1,141.87,1
+Fort Lauderdale,Riverside Park,0.82,10,3,177.58,0.43
+Fort Lauderdale,Riverwalk Linear Park,0.26,3,3,114.17,0.43
+Fort Lauderdale,SW 5th Ct and SW 12th Ave Park,1.04,9,2,182.44,0.14
+Fort Lauderdale,Sailboat Bend Preserve,1.15,33,7,174.79,0.14
+Fort Lauderdale,Shirley Small-Melrose Park,4.05,1,1,174.42,0.57
+Fort Lauderdale,Smoker Park,2.08,32,5,110.53,0.43
+Fort Lauderdale,Snyder Park,35.66,228,59,178.12,0.71
+Fort Lauderdale,South Intracoastal Park,1.36,3,2,109.26,0.14
+Fort Lauderdale,Stranahan Park,0.95,10,4,116.91,0.14
+Fort Lauderdale,Tarpon Cove Park,0.21,6,2,167.34,0.14
+Fort Lauderdale,Townsend Park,0.28,5,3,129.15,0.14
+Fort Lauderdale,Victoria Park,0.53,7,3,168.48,0.29
+Fort Lauderdale,Warbler Wetlands,4.54,4,1,167.14,0.14
+Hallandale Beach,Foster Park & Plaza,4.87,1,1,150.38,0.71
+Hallandale Beach,Hallandale City Park,6.74,1,1,144.5,0.57
+Hallandale Beach,Ingalls Park,2,5,2,165.19,0.57
+Hallandale Beach,South City Beach Park,1.17,26,3,104.66,0.57
+Hollywood,Bob Butterworth Park,0.62,1,1,149.16,0
+Hollywood,Charles F. Vollman Park,2.93,3,2,157.99,0.14
+Hollywood,Charnow Park-Historical Paddleball Courts,0.63,8,5,109.36,0.57
+Hollywood,Emerald Hills Lakes Park & Dog Park,2.03,1,1,163.34,0.57
+Hollywood,Holland Park,9.94,110,15,219.13,0.43
+Hollywood,Joe DiMaggio Park,7.02,4,1,164.9,0.71
+Hollywood,John Williams Park-Sheridan Oak Forest,10.12,30,10,204.19,0.71
+Hollywood,Lions Park,0.33,5,1,166.38,0.29
+Hollywood,Oak Lake Park,2.53,11,5,173.97,0.57
+Hollywood,Oakridge Park & Dog Park,10.48,11,2,181.06,0.57
+Hollywood,Oakwood Hills Park,1.75,1,1,144.49,0.29
+Hollywood,Rose's Garden,0.28,2,1,140.14,0.43
+Hollywood,Stan Goldman Memorial Park,7.14,13,10,162.24,1
+Hollywood,Zinkil Park,2.4,6,1,179.01,0.57
+Lauderdale by the Sea,Washingtonia Park,0.82,4,4,108.86,0.29
+Lauderhill,John E. Mullin Park & The Lauderhill Aquatic Center,12.43,5,2,136.9,0.86
+Lauderhill,Meditation Park,26.38,4,4,208.29,0.14
+Lauderhill,Westwind Park,5.16,6,2,169.09,0.71
+Lighthouse Point,De Groff Park,1.09,13,6,138.72,0.43
+Miramar,Ansin Sports Complex,7.92,9,8,142.05,0.43
+Miramar,Fairway Park,1.95,10,4,167.51,0.43
+Miramar,Flamingo Estates Park,2.57,1,1,173.69,0.29
+Miramar,Forzano Field,5.2,2,2,152.19,0.29
+Miramar,Huntington Park North & South,2.96,2,1,170.82,0.29
+Miramar,Island Park,3.39,3,3,175.73,0.43
+Miramar,Linear Park North & South,0.13,2,1,136.23,0
+Miramar,Miramar Isles Park,0.3,3,1,146.24,0.29
+Miramar,Miramar Regional Park,71.36,12,10,128.09,0.43
+Miramar,Silver Lakes Tennis Complex,3.98,1,1,166.23,0.29
+Miramar,Veteran's Memorial Park,0.25,1,1,165.38,0
+Miramar,Vizcaya Park,8.15,3,2,141.91,0.43
+North Lauderdale,Hampton Pines Park,16.13,163,17,185.31,0.71
+Oakland Park,Jaco Pastorius Park,3.72,22,9,115.36,0.14
+Oakland Park,Lakeside Sand Pine Preserve,4.64,118,4,111.35,0.43
+Oakland Park,Stevens Field,1.25,7,1,118.64,0.29
+Oakland Park,Stunson Nature Trail,3.38,163,24,163.95,0.14
+Oakland Park,Veterans Park,1.77,4,1,154.79,0.43
+Oakland Park,Wimberly Fields Park,5.26,19,2,107.17,0.29
+Parkland,Barkland Dog Park,1.56,4,2,157.53,0.14
+Parkland,Covered Bridge Park,3.19,4,1,199.29,0.14
+Parkland,Doris Davis Forman Wilderness Preserve,7.03,102,9,189.06,0.29
+Parkland,Equestrian Center at Temple Park,12.35,2,2,191.22,0.14
+Parkland,Liberty Park,2.26,21,3,171.71,0.29
+Parkland,Pine Trails Park,32.97,183,12,145.33,0.57
+Parkland,Six Acre Woods Park,2.93,39,7,199.43,0.14
+Parkland,Terramar Park,20.68,16,2,171.07,0.57
+Pembroke Pines,Ben Fiorendino Park,1.74,115,9,196.78,0.43
+Pembroke Pines,Chapel Trail Nature Preserve,228.54,780,69,231.83,0.57
+Pembroke Pines,Chapel Trail Park,7.88,4,2,161.65,0.43
+Pembroke Pines,Craig Rupp K-9 Dog Park,0.67,2,1,208.5,0.29
+Pembroke Pines,Fahey Park,0.3,19,1,120.52,0.14
+Pembroke Pines,Flamingo Park,14.63,3,1,165.99,0.43
+Pembroke Pines,Linear Park,5.47,85,3,155.96,0.29
+Pembroke Pines,Pembroke Lakes Golf and Tennis Center,50.4,13,7,230.36,0.14
+Pembroke Pines,Rose G. Price Park,3.57,19,5,186.01,0.43
+Pembroke Pines,Silver Lakes Park North,8.85,28,8,197.21,0.43
+Pembroke Pines,Spring Valley Park,1.15,66,2,108.42,0.14
+Pembroke Pines,Tanglewood Park,2.15,8,2,136.59,0.43
+Pembroke Pines,West Pines Soccer Park and Preserve,9.43,8,1,173.86,0.43
+Pembroke Pines,William B. Armstrong Dream Park,8.31,116,5,113.73,0.29
+Plantation,Deicke Park,4.28,6,4,185.25,0.71
+Plantation,Fig Tree Park,3.01,11,5,204.51,0.43
+Plantation,Hoffman Park,1.58,61,1,121.06,0.14
+Plantation,Jacaranda Lakes Park,3.64,22,3,193.56,0.57
+Plantation,Plantation Botanical Garden,3.08,7,3,226.39,0.29
+Plantation,Plantation Central Park,43.37,165,32,162.33,0.86
+Plantation,Plantation North Acres,6.11,14,5,210.58,0.14
+Plantation,Plantation Preserve Park & Linear Trail,84.45,883,93,228.01,0.43
+Plantation,Plantation Woods-Kennedy Park,5.93,14,8,181.47,0.29
+Plantation,Rae Carole Armstrong Liberty Tree Park,4.62,7,3,173.84,0.57
+Plantation,Seminole Park,9.73,4,4,161.6,0.57
+Plantation,Sunset Park,15.61,4,3,167.05,0.57
+Plantation,Tara Park,1.72,8,3,223.47,0.29
+Plantation,Veterans Park,2.01,7,2,161.2,0.29
+Plantation,Volunteer Park,33.09,431,40,162.4,0.71
+Plantation,Woodbury Park,0.44,1,1,167.74,0
+Pompano Beach,Bill Keith Park,0.65,4,2,107.87,0
+Pompano Beach,Canine Corner Dog Park,2.68,7,3,142.38,0.14
+Pompano Beach,Exchange Club Park,5.91,14,4,155.15,0.14
+Pompano Beach,George Brummer Park,2,2,1,138.02,0.43
+Pompano Beach,Harbor's Edge Park,3.4,14,6,143.82,0.43
+Pompano Beach,Hillsboro Inlet Park,0.51,7,6,114.13,0.29
+Pompano Beach,McNab Park,1.59,14,1,103.13,0.43
+Pompano Beach,North Ocean Park,0.4,2,1,110.95,0.14
+Pompano Beach,Sandspur Park,0.67,1,1,145.41,0.29
+Pompano Beach,Sergeant Kip Jacoby Park,2.25,6,3,112.46,0.57
+Southwest Ranches,Country Estates Fishing Hole Park,6.77,12,3,202.82,0.57
+Southwest Ranches,Frontier Trails Park,12.31,17,5,235.32,0.29
+Southwest Ranches,Rolling Oaks Park,18.93,19,5,205.58,0.29
+Southwest Ranches,Southwest Meadows Sanctuary,12.3,8,2,204.69,0.43
+Southwest Ranches,Sunshine Ranches Equestrian Park,10.5,22,5,144.33,0.71
+Sunrise,Cypress Preserve Park,3.35,128,9,149.02,0.71
+Sunrise,Flamingo Park,9.59,122,23,166.27,0.43
+Sunrise,Flamingo Road Linear Park,6.84,2,1,127.29,0.43
+Sunrise,Nob Hill Soccer Club Park,6.39,4,2,124.53,0.29
+Sunrise,Oak Hammock-Passive Park,8.1,238,42,163.16,0.57
+Sunrise,Oscar Wind Park,4.05,8,1,184.21,0.71
+Sunrise,Pawgrass at Welleby Park,3.33,7,4,194.55,0.43
+Sunrise,Sawgrass Sanctuary Park,8.57,35,9,177.7,0.43
+Sunrise,Sunrise Athletic Complex,11.61,83,8,172.75,0.43
+Sunrise,Sunrise Sportsplex,8.2,11,3,166.84,0.43
+Sunrise,Welleby Park,6.93,7,5,176.44,0.71
+Tamarac,Tamarac Veterans Park-Dog Park,2.76,14,4,165.12,0.57
+Tamarac,Tephford Park,10.63,62,9,132.66,0.57
+Tamarac,Waters Edge Park,3.23,8,2,124.45,0.86
+Weston,Emerald Estates Park,8.02,93,13,192.27,1
+Weston,Gator Run Park,3.07,4,3,174.23,0.71
+Weston,Indian Trace Park,2.39,4,1,142.49,0.86
+Weston,Peace Mound Park,3.33,23,10,256.06,0.71
+Weston,Regional Park,43.56,15,9,139.98,0.43
+Weston,Tequestra Trace Park,17.63,7,7,164.24,0.71
+Weston,Town Center Park,10.25,26,11,157.53,0.29
+Weston,Vista Park,14.8,7,4,144.61,0.43
+Weston,Weston Racquet Club,2.97,6,2,135.35,0.29
+Wilton Manors,Colohatchee Park,3.27,12,7,181.15,0.57
+Wilton Manors,Hagen Park,1.59,7,3,124.19,0.57
+Wilton Manors,Richardson Historic Park and Nature Preserve,2.39,115,34,154.24,0.43
+Undefined,Boulevard Gardens Community Center,0.71,0,0,130.99,0.57
+Undefined,Dillard Green Space,1.84,0,0,127.43,0.14
+Undefined,Franklin Park,0.83,0,0,124.27,0.71
+Undefined,Lafayette Hart Park,0.91,0,0,135.66,0.57
+Undefined,Lewis-Chisom Park,0.53,0,0,127.12,0.14
+Undefined,Roosevelt Gardens Park,2.44,0,0,140.34,0.57
+Undefined,Sewell Lock,1.12,0,0,135.37,0.14
+Undefined,South Fork Canoe Launch,1.9,0,0,142.77,0.29
+Undefined,Washburn Park,0.81,0,0,148.56,0.14
+Coconut Creek,Golden Raintree Park,1.03,0,0,183.17,0.14
+Coconut Creek,Lakewood Park,0.46,0,0,150.06,0.71
+Coconut Creek,Oak Trails Park,1.94,0,0,203.68,0.86
+Coconut Creek,Pond Apple Park,0.37,0,0,197.35,0.57
+Coconut Creek,Recreation Complex and Fitness Center North,4.03,0,0,142.52,0.86
+Coconut Creek,Sunshine Drive Park,0.09,0,0,144.02,0.14
+Coconut Creek,Township Estates Park,0.81,0,0,181.67,0.29
+Cooper City,Bill Lips Sports Complex,3.97,0,0,164.62,0.57
+Cooper City,Chase Park,0.19,0,0,178.93,0.57
+Cooper City,Christie Schafale Park and Dog Park,2.22,0,0,195.69,1
+Cooper City,Colony Park,0.09,0,0,178.96,0.29
+Cooper City,Cooper's Point Park,0.22,0,0,170.26,0.43
+Cooper City,Dawn Park,0.52,0,0,166,0.29
+Cooper City,Diamond Head Park,0.88,0,0,162.56,0.57
+Cooper City,Ellie Kozak Park,0.45,0,0,208.99,0.43
+Cooper City,Encore Park,0.28,0,0,163.34,0.29
+Cooper City,Flamingo West Park,13.99,0,0,154.32,0.71
+Cooper City,Homes of Forest Lake Park,0.2,0,0,141.78,0.14
+Cooper City,Natalie's Cove Park,0.26,0,0,162.11,0.29
+Cooper City,Pine Lake Park,0.35,0,0,154.64,0.14
+Cooper City,Poinciana Park,0.37,0,0,176.27,0.14
+Cooper City,Pool & Tennis Center Park,3.51,0,0,153.29,0.57
+Cooper City,Stirling Palm Park,1.39,0,0,162.4,0.57
+Cooper City,Ted Ferone Park,2.02,0,0,176.66,0.71
+Coral Springs,Castlewood Park,1.07,0,0,167.07,0.57
+Coral Springs,Chevy Chase North Park,0.03,0,0,165.07,0.14
+Coral Springs,Chevy Chase South Park,0.54,0,0,172.24,0.14
+Coral Springs,Countrywood Park,0.25,0,0,167.63,0.29
+Coral Springs,Forest Hills West Park,0.31,0,0,160.79,0.14
+Coral Springs,Jaycee Park,4.15,0,0,171.7,0.43
+Coral Springs,Kiwanis Park,4.64,0,0,176.83,0.43
+Coral Springs,Paul Barre Memorial Park,0.79,0,0,167.48,0.43
+Coral Springs,Paul Britton Park,2.06,0,0,140.49,0.43
+Coral Springs,Pine Glen Park,0.3,0,0,177.46,0.14
+Coral Springs,Pride Promoters Park,0.3,0,0,131.75,0.43
+Coral Springs,Richard D Petrillo Park,2.45,0,0,168.47,0
+Coral Springs,Running Brooke Hills Park,1.27,0,0,165.19,0.29
+Coral Springs,Shadow Wood Park,0.91,0,0,192.1,0.14
+Coral Springs,Sportsplex Athletic Complex,9.74,0,0,170.35,0.57
+Coral Springs,Turtle Run Park,3.69,0,0,160.2,0.43
+Coral Springs,Village Green Park,1.83,0,0,141.43,0.57
+Coral Springs,Whispering Woods,5.09,0,0,178.22,0.43
+Coral Springs,Windings Park,0.7,0,0,167.47,0.14
+Dania Beach,CW Thomas Park,2.49,0,0,155.09,0.71
+Dania Beach,Chester Byrd Park,1.24,0,0,157.89,0.57
+Dania Beach,Griffin Marine Park,0.7,0,0,131.83,0.14
+Dania Beach,I.T. Parker Center,0.38,0,0,178.3,0.14
+Dania Beach,Linear Park,0.34,0,0,165.51,0.43
+Dania Beach,Meli-Griffin Park,5,0,0,164.34,0.71
+Dania Beach,Mildred V. Jones Park,0.44,0,0,141.71,0.29
+Dania Beach,Mullikin Park,0.39,0,0,142.54,0.29
+Dania Beach,Northside Garden Park,0.29,0,0,139.88,0.14
+Dania Beach,Southwest Community Center,5.77,0,0,113.88,0
+Davie,Berman Park,0.69,0,0,211.88,0.43
+Davie,East Davie Nature Park,1.06,0,0,198.44,0.43
+Davie,James Ale Memorial Park,0.05,0,0,145.4,0
+Davie,Math Igler Citrus Park,0.53,0,0,177.18,0.43
+Davie,Potter Park,1.95,0,0,126.43,0.57
+Davie,Reflections Park,1.7,0,0,184.49,0.57
+Davie,The Park at Waverly,4.91,0,0,172.79,0.57
+Davie,Veterans Park,0.82,0,0,155.35,0.43
+Deerfield Beach,Ada Graham-Johnson Park,0.74,0,0,144.37,0.43
+Deerfield Beach,Central Crystal Heights,0.62,0,0,161.15,0.29
+Deerfield Beach,Cornerstone Park,0.28,0,0,123.11,0.43
+Deerfield Beach,Deer Run East,0.26,0,0,166.04,0.43
+Deerfield Beach,Ecidar Park,1.32,0,0,149.98,0.57
+Deerfield Beach,Highlands Park,0.74,0,0,128.06,0.57
+Deerfield Beach,Hillsboro Community Center,4.39,0,0,140.88,0.29
+Deerfield Beach,Johnie McKeithen Park,5.77,0,0,167.26,1
+Deerfield Beach,Kirk Cottrell Pavilion,0.84,0,0,114.37,0.29
+Deerfield Beach,Marty Popelsky Park,19.84,0,0,176.8,0
+Deerfield Beach,Mayo Howard Park,2.21,0,0,139.38,1
+Deerfield Beach,North Crystal Heights,0.85,0,0,161.18,0.57
+Deerfield Beach,Oveta McKeithen Recreational Complex,8.73,0,0,149.3,0.86
+Deerfield Beach,Pastor Willie James Ford Sr. Linear Park,1.66,0,0,140.56,0.14
+Deerfield Beach,Riverview Park,1.81,0,0,211.07,0
+Deerfield Beach,SE 15th St Park,0.24,0,0,142.75,0
+Deerfield Beach,South Crystal Heights,0.9,0,0,141.81,0.57
+Deerfield Beach,Teen Center,1.44,0,0,127.36,0.29
+Fort Lauderdale,4201 N. Ocean Blvd,0.14,0,0,117.74,0
+Fort Lauderdale,520 SW 31st Ave,0.44,0,0,178.77,0
+Fort Lauderdale,Bass Park,1.59,0,0,131.09,0.57
+Fort Lauderdale,Benenson Park,0.47,0,0,125.01,0.14
+Fort Lauderdale,Bryant Peney Park,0.31,0,0,142.31,0.29
+Fort Lauderdale,Coral Ridge Park,0.17,0,0,128.42,0.29
+Fort Lauderdale,Croissant Park,3.55,0,0,141.25,0.29
+Fort Lauderdale,Earl Lifshey Park,0.27,0,0,113.57,0.29
+Fort Lauderdale,Flamingo Park,0.99,0,0,140.43,0.29
+Fort Lauderdale,Floranda Elementary School Park,1.8,0,0,112.27,0.43
+Fort Lauderdale,Greenfield Park,0.22,0,0,115.6,0.29
+Fort Lauderdale,Harbordale Park,0.28,0,0,114.73,0.43
+Fort Lauderdale,Hector Park,0.23,0,0,141.23,0.14
+Fort Lauderdale,Imperial Point Entranceway,0.19,0,0,116.28,0
+Fort Lauderdale,Jack and Harriet Kaye Park,0.8,0,0,139.5,0
+Fort Lauderdale,Lauderdale Manors Park,0.75,0,0,130.77,0.43
+Fort Lauderdale,Lauderdale Villas Entranceway,0.13,0,0,138.79,0
+Fort Lauderdale,Little Lincoln Park,0.17,0,0,125.19,0
+Fort Lauderdale,Lockhart Park,18.51,0,0,113.16,0.14
+Fort Lauderdale,Loggerhead Park,0.26,0,0,114.97,0.29
+Fort Lauderdale,Lu Deaner Park,0.09,0,0,114.14,0.29
+Fort Lauderdale,Marshall Point,2.18,0,0,114.22,0.29
+Fort Lauderdale,Middle River Terrace Park,1.39,0,0,142.14,0.29
+Fort Lauderdale,Mitchell Family Park,0.6,0,0,147.65,0
+Fort Lauderdale,Palm Aire Village Park,1.73,0,0,114.82,0.57
+Fort Lauderdale,Poinciana Park,0.83,0,0,140.13,0.29
+Fort Lauderdale,Provident Park,0.44,0,0,137.08,0.14
+Fort Lauderdale,Purple Pickle Park,0.06,0,0,120.8,0
+Fort Lauderdale,Riverland Park,4.32,0,0,134.32,0.71
+Fort Lauderdale,Riverland Preserve,1.8,0,0,204.32,0.14
+Fort Lauderdale,Sara Horn Greenway,0.1,0,0,144.12,0.14
+Fort Lauderdale,Sistrunk Park,1.63,0,0,112.22,0.29
+Fort Lauderdale,South Middle River Park,0.34,0,0,154.88,0.57
+Fort Lauderdale,Sunset School Park,2.65,0,0,146.42,0.43
+Fort Lauderdale,Sweeting Park,0.1,0,0,160.05,0.29
+Fort Lauderdale,Tarpon River Park,0.63,0,0,141.94,0.14
+Fort Lauderdale,Tranquility Park,0.1,0,0,110.34,0
+Fort Lauderdale,Twin Lakes North Park,0.12,0,0,113.32,0.43
+Fort Lauderdale,Virginia Shuman Young Elementary Park,1.34,0,0,141.76,0.43
+Fort Lauderdale,Virginia Young Park,0.34,0,0,159.85,0.29
+Fort Lauderdale,Vista Park,0.26,0,0,115,0.29
+Fort Lauderdale,Walker Park (Walker Elementary School),1.16,0,0,130.58,0.43
+Fort Lauderdale,Warfield Park,1.49,0,0,126.91,0.43
+Fort Lauderdale,Waverly Property,1.12,0,0,170.88,0.14
+Fort Lauderdale,Welcome Park,0.83,0,0,112.89,0
+Fort Lauderdale,Westwood Heights Triangle Park (Westwood Heights Elementary School),0.16,0,0,142.79,0
+Fort Lauderdale,Willingham Park,0.26,0,0,114.97,0
+Hallandale Beach,B.F. James Park and Pool,0.9,0,0,140.02,0.57
+Hallandale Beach,Curci House-Historical Village,0.16,0,0,161.52,0
+Hallandale Beach,Golden Isles Park,7.76,0,0,141.33,0.71
+Hallandale Beach,Gulfstream Academy (HACC) Athletic Fields,8.3,0,0,128.1,0.29
+Hallandale Beach,Joseph Scavo Park,2.92,0,0,186.44,0.86
+Hallandale Beach,OB Johnson Park,2.85,0,0,139.88,0.71
+Hallandale Beach,Sunrise Park,1.14,0,0,138.78,0.57
+Hallandale Beach,Sunset Park,0.23,0,0,141.98,0.43
+Hollywood,Anniversary Park,0.11,0,0,113.17,0.29
+Hollywood,Bicentennial Park,1.6,0,0,171.24,0.57
+Hollywood,Carlton Montayne Park,0.48,0,0,163.68,0.43
+Hollywood,Cathy & Bob Anderson Park,0.3,0,0,125.98,0.43
+Hollywood,Earl Crofford Park,0.78,0,0,164,0.14
+Hollywood,Eppelman Park,0.15,0,0,114.39,0.29
+Hollywood,Fletcher Street Park,0.1,0,0,114.89,0.14
+Hollywood,Harry Berry Park,0.22,0,0,118.03,0.43
+Hollywood,Henry L. Graham Park,0.2,0,0,140.75,0.14
+Hollywood,Hollywood West Skate Park,4.59,0,0,160.86,0.29
+Hollywood,Jefferson Park,1.89,0,0,141.86,0.43
+Hollywood,John B. Kooser Memorial Park & Exercise Trail,0.48,0,0,174.82,0.14
+Hollywood,Keating Park,0.14,0,0,111.38,0.43
+Hollywood,Kiwanis Park,0.5,0,0,145.23,0.43
+Hollywood,Lincoln Park,1.83,0,0,145,0.57
+Hollywood,Mara Berman Giulianti Park in Emerald Hills,0.93,0,0,141.92,0.43
+Hollywood,Montella Park,0.85,0,0,174.82,0.29
+Hollywood,Poinciana Park & Poinciana Dog Park,1.05,0,0,157.8,0.71
+Hollywood,Rainbow Tot Lot,0.04,0,0,161.33,0.14
+Hollywood,Rotary Park,7.11,0,0,165.35,0.71
+Hollywood,Sailor's Point,0.8,0,0,181.13,0.29
+Hollywood,Sal Oliveri Veterans Park,0.49,0,0,135.56,0.43
+Hollywood,Seminole Park,0.93,0,0,166.67,0.43
+Hollywood,Water View Park,0.34,0,0,167.11,0.14
+Lauderdale Lakes,Cypress Preserve Conservation Park,3.13,0,0,156.53,0.43
+Lauderdale Lakes,Northgate Neighborhood Park,1.36,0,0,114.5,0.57
+Lauderdale Lakes,Otis Grey Neighborhood Park,NA,0,0,161.6,0.43
+Lauderdale Lakes,Vincent Torres Memorial Park,3.99,0,0,147.5,0.43
+Lauderdale Lakes,"Willie L. Webb, Sr. Park",3.55,0,0,151.34,0.43
+Lauderdale by the Sea,El Prado Park,0.24,0,0,109.98,0.29
+Lauderdale by the Sea,Friedt Park,NA,0,0,110.41,0.43
+Lauderhill,17th Street Park,0.09,0,0,134.77,0.14
+Lauderhill,Boulevard Woods Park,0.2,0,0,150.98,0.14
+Lauderhill,Herbert Sadkin Community Center,0.25,0,0,113.41,0.43
+Lauderhill,Ilene Lieberman Botanical Gardens,1.13,0,0,172.26,0.57
+Lauderhill,Jackie Gleason Park,1.36,0,0,161.22,0.57
+Lauderhill,James D. Bradley Jr. Park,1.66,0,0,140.95,0.14
+Lauderhill,Lauderhill 6-12 School Field,6.4,0,0,134.26,0.14
+Lauderhill,Lauderhill Sports Park,5.88,0,0,126.63,0.86
+Lauderhill,Maye Frances Brooks Jenkins Park,0.52,0,0,131.03,0.29
+Lauderhill,Renaissance Park,6.03,0,0,146.44,0.29
+Lauderhill,Ruth Rothkopf Park,2.77,0,0,143.15,0.43
+Lauderhill,South Gateway Park,1.96,0,0,126.76,0.43
+Lauderhill,St. George Community Park,3.57,0,0,141.56,0.71
+Lauderhill,Veterans Park,3.74,0,0,162.53,0.57
+Lauderhill,Walter Wally Elfers Park & Lauderhill Historical Museum,0.54,0,0,131.14,0.29
+Lauderhill,Waterford Park,1.25,0,0,145.74,0.29
+Lauderhill,West Ken Lark Park,4.11,0,0,158.6,0.71
+Lauderhill,Windermere Community Center,0.26,0,0,124.38,0.29
+Lauderhill,Wolk Park,1.91,0,0,125.5,0.71
+Lighthouse Point,Dan Witt Park,1.8,0,0,114.74,0.43
+Lighthouse Point,Frank McDonough Park,2.79,0,0,135.26,0.57
+Margate,Andrews Field,NA,0,0,166.85,0.29
+Margate,Centennial Park,1.69,0,0,169.49,0.43
+Margate,Coral Gate Park,1.35,0,0,144.95,0.43
+Margate,David Park,0.43,0,0,126.73,0.29
+Margate,Firefighters Park,4.66,0,0,141.2,0.71
+Margate,Kaye Stevens Park,0.86,0,0,153.06,0.43
+Margate,Legacy Park,0.06,0,0,143.55,0.14
+Margate,Lemon Tree Lake Park,0.09,0,0,120.22,0.43
+Margate,Margate Sports Complex,4.58,0,0,139.19,0.71
+Margate,Oriole Park,4.6,0,0,140.31,0.29
+Margate,Rock Island Fitness Park,0.17,0,0,126.89,0.14
+Margate,Royal Palm Park,0.28,0,0,145.05,0.43
+Margate,Serino Park,0.69,0,0,139.42,0.43
+Margate,Southeast Park,4.34,0,0,186.22,0.43
+Margate,Southgate Park,0.54,0,0,148.89,0.29
+Margate,Veterans Memorial Park,0.38,0,0,142.3,0.14
+Margate,Vinson Park,2.21,0,0,160.91,0.43
+Margate,Winfield Park,0.42,0,0,132.31,0.29
+Miramar,19th Street Park,0.17,0,0,115.42,0.43
+Miramar,Beauty Park,0.14,0,0,141.57,0
+Miramar,Beekman Park,0.81,0,0,153.36,0.43
+Miramar,Bernard Park,0.59,0,0,153.13,0.29
+Miramar,Civic Center Park,0.41,0,0,140.78,0.29
+Miramar,Country Club Ranches,0.86,0,0,143.67,0.43
+Miramar,Forcina Field,1.05,0,0,149.82,0.14
+Miramar,Harbour Lakes,1.12,0,0,127.13,0.14
+Miramar,Historic Miramar Aquatic Complex,0.72,0,0,140.7,0.14
+Miramar,Lakeshore Park,3.93,0,0,131.73,0.43
+Miramar,Miramar Athletic Park,2.03,0,0,159.59,0.14
+Miramar,Monarch Lakes Park,3.56,0,0,140.97,0.29
+Miramar,Perry Park-Wellman Field,2.62,0,0,165.5,0.29
+Miramar,Progress Park,0.22,0,0,160.32,0
+Miramar,River Run Park,2.24,0,0,201.53,0.86
+Miramar,Sawyer Park,0.17,0,0,134.09,0.29
+Miramar,Sheraton Park,0.74,0,0,166.32,0.29
+Miramar,Shirley Branca Park,2.46,0,0,142.22,0.29
+Miramar,Silver Shores Park,3.41,0,0,153.26,0.43
+North Lauderdale,Bicentennial Park,0.53,0,0,143.81,0.29
+North Lauderdale,Braeburn Park,0.92,0,0,147.02,0.14
+North Lauderdale,Broadview Community Park,0.6,0,0,143.96,0.29
+North Lauderdale,Carl Fusco Park,1.67,0,0,125.44,0.14
+North Lauderdale,Champions Hall Park,0.17,0,0,133.21,0
+North Lauderdale,Highland Park,1.62,0,0,168.37,0.29
+North Lauderdale,Jaycee Park,0.48,0,0,156.81,0.29
+North Lauderdale,Landings Park,1.02,0,0,151,0.29
+North Lauderdale,North Lauderdale Field,2.1,0,0,150.3,0.14
+North Lauderdale,North Lauderdale Sports Complex,2.93,0,0,143.86,0.14
+North Lauderdale,Pompano Park,1.76,0,0,162.57,0.29
+North Lauderdale,Silver Lakes Park,2.88,0,0,136.66,0.14
+North Lauderdale,TOT Park,0.34,0,0,151.93,0.29
+North Lauderdale,Veterans Memorial,0.36,0,0,127.29,0
+North Lauderdale,Woodville Park,1.29,0,0,141.77,0.14
+Oakland Park,Bark Park,0.96,0,0,113,0.14
+Oakland Park,Cherry Creek Park,1.32,0,0,136.7,0.29
+Oakland Park,Dr. Carter G. Woodson Park,0.56,0,0,117.27,0.57
+Oakland Park,Greenleaf Park,0.9,0,0,130.97,0.43
+Oakland Park,Lloyd Estates Park,0.22,0,0,142.83,0.29
+Oakland Park,North Andrews Gardens Neighborhood Park,NA,0,0,113.9,0.29
+Oakland Park,North Andrews Gardens Volunteer Park,NA,0,0,112.66,0.14
+Oakland Park,Richard E. Giusti Heart Park,NA,0,0,114.86,0.29
+Parkland,John H. Quigley Park - Parkland Tennis Center,3.25,0,0,142.57,0.14
+Pembroke Park,Patrick Behan Park,NA,0,0,119.63,0.29
+Pembroke Park,Raymond P. Olgesby Preserve-Pembroke Park Preserve,NA,0,0,165.06,0.71
+Pembroke Pines,108th Avenue Park,0.39,0,0,164.87,0.14
+Pembroke Pines,111th Avenue Park,0.35,0,0,145.99,0.14
+Pembroke Pines,Alhambra Park,0.35,0,0,155.84,0.29
+Pembroke Pines,Ashley Hale Park,1.23,0,0,170.57,0.29
+Pembroke Pines,Cinnamon Place,3,0,0,167.37,0.71
+Pembroke Pines,Fletcher Park,3.34,0,0,129.45,0.29
+Pembroke Pines,Jack McCluskey Rainbow Park,3.37,0,0,147.15,0.43
+Pembroke Pines,Memorial Park,1.84,0,0,123.92,0.14
+Pembroke Pines,Pasadena Park,1.82,0,0,139.46,0.43
+Pembroke Pines,Paul J. Maxwell Park,3.5,0,0,157.08,0.43
+Pembroke Pines,Pembroke Shores Park,10.96,0,0,148.45,0.43
+Pembroke Pines,Pines Recreation Center,4.08,0,0,157.91,0.43
+Pembroke Pines,Raintree Park,0.85,0,0,149.24,0.14
+Pembroke Pines,Silver Lakes Park South,4.16,0,0,143.83,0.43
+Pembroke Pines,Steven L. Josias Dog and Equestrian Park,5.55,0,0,149.21,0.29
+Pembroke Pines,Towngate Park,4.02,0,0,154.43,0.43
+Pembroke Pines,Walden Lakes Park,1.66,0,0,167.63,0.43
+Pembroke Pines,Walnut Creek Park,3.38,0,0,148.39,0.43
+Plantation,Coco Plum Park,0.49,0,0,203.83,0.14
+Plantation,Country Club Park,1.55,0,0,163.76,0.57
+Plantation,Fumpston Park,0.63,0,0,153.93,0.14
+Plantation,Jack Carter Harmony Park,3.93,0,0,166.57,0.29
+Plantation,Jim Ward Park,3.85,0,0,169.38,0.57
+Plantation,Marcano Estates Park,0.98,0,0,188.13,0.14
+Plantation,Melaleuca Park,0.1,0,0,157.63,0.14
+Plantation,Mini Park North,0.13,0,0,152.6,0
+Plantation,Mini Park South,0.24,0,0,128.25,0
+Plantation,Mirror Lake Park,2.33,0,0,191.29,0.29
+Plantation,Multicultural Park,0.3,0,0,154.49,0.14
+Plantation,PAL Park-Roy Salmon Stadium,3.79,0,0,166.42,0.14
+Plantation,Park East Park,1.78,0,0,182.67,0.71
+Plantation,Park East Trailhead,0.33,0,0,130.39,0.29
+Plantation,Pine Island Park,7.67,0,0,171.4,0.29
+Plantation,Plantation Acres,2.56,0,0,201.96,0
+Plantation,Plantation Business Park,0.6,0,0,125.88,0.14
+Plantation,Plantation Point Park,0.2,0,0,171.31,0.29
+Plantation,Pop Travers Park,3.72,0,0,171.58,0.29
+Plantation,South Bel Air Park,0.69,0,0,187.36,0
+Plantation,Thrower Park,0.13,0,0,214.27,0.14
+Pompano Beach,Annie Adderly Gillis Park,0.37,0,0,130.66,0.14
+Pompano Beach,Apollo Park,4.85,0,0,146.35,0.57
+Pompano Beach,Avondale Park,1.17,0,0,140.9,0.57
+Pompano Beach,Centennial Park,1.73,0,0,130.33,0
+Pompano Beach,Coleman Park,0.31,0,0,133.09,0.14
+Pompano Beach,Cresthaven Park,0.61,0,0,129.66,0.57
+Pompano Beach,Fairview Park,NA,0,0,118.22,0.43
+Pompano Beach,Founders Park,0.65,0,0,123.9,0.29
+Pompano Beach,Highlands Park,1.65,0,0,141.21,0.43
+Pompano Beach,Hunters Manor Park,3.42,0,0,155.25,0.71
+Pompano Beach,Indian Mound Park,0.47,0,0,115.22,0
+Pompano Beach,Jackson Park,0.13,0,0,138.88,0
+Pompano Beach,Kestler Field,3.84,0,0,159.44,0.57
+Pompano Beach,Lake Santa Barbara Park,0.14,0,0,115.3,0
+Pompano Beach,Lovely Park,0.09,0,0,129.19,0.14
+Pompano Beach,Marine Drive Park,0.08,0,0,114.02,0
+Pompano Beach,McNair Park & Recreation Center,2.42,0,0,157.09,0.57
+Pompano Beach,Mitchell Moore Park-Westside Park,9.7,0,0,140.82,0.43
+Pompano Beach,North Pompano Park,7.12,0,0,146.1,0.57
+Pompano Beach,North Riverside Park,0.13,0,0,131.28,0
+Pompano Beach,Novelty Park,0.54,0,0,135.14,0.29
+Pompano Beach,S.E. 13 Street Park,0.1,0,0,109.34,0
+Pompano Beach,S.E. 15 Street Park,0.03,0,0,121.82,0
+Pompano Beach,Sand and Spurs Equestrian Park,3.44,0,0,142.75,0.14
+Pompano Beach,Scott Winters Memorial Park,0.4,0,0,114.96,0
+Pompano Beach,Sgt. Chris Reyka Memorial Park,0.16,0,0,113.68,0
+Southwest Ranches,Calusa Corners Park,5.11,0,0,171.78,0.14
+Southwest Ranches,Trailside Park,1.76,0,0,154.38,0.57
+Sunrise,City Park,2.44,0,0,146.15,0.71
+Sunrise,Lakeside Park,0.7,0,0,149.37,0.29
+Sunrise,Shotgun Road Linear Park,4.8,0,0,150.53,0.43
+Sunrise,Sunrise Golf Village Park,0.21,0,0,130.92,0
+Sunrise,Sunrise Tennis Club,2.91,0,0,134.25,0.29
+Sunrise,Village Square Park,0.17,0,0,124.23,0
+Tamarac,Caporella Aquatic Center,1.47,0,0,113.46,0.43
+Tamarac,Caporella Park,2.43,0,0,142.6,0.43
+Tamarac,Mainlands Park,4.35,0,0,161.47,0.57
+Tamarac,Sunset Point Park,3.86,0,0,187.88,0.57
+Tamarac,Swim Central Annex Park,1.57,0,0,116.08,0.57
+Tamarac,Tamarac Recreation Center,4.31,0,0,130.77,0.57
+Tamarac,Tamarac Sports Complex,14.67,0,0,150.71,0.57
+West Park,Mary Saunders Park,1.32,0,0,163.47,0.57
+West Park,McTyre Park,8.07,0,0,143.94,0.71
+West Park,Water Tower Park,0.62,0,0,141.14,0.29
+Weston,Bonaventure Park,6.32,0,0,140.84,0.43
+Weston,Country Isles Park,1.85,0,0,211.1,0.57
+Weston,Eagle Point Park,1.97,0,0,167.43,0.71
+Weston,Heron Park,2.14,0,0,186.06,0.29
+Weston,Library Park,2.66,0,0,132,0.43
+Weston,Windmill Ranch Park,1.81,0,0,173.68,0.43
+Wilton Manors,Donn Eisele Park,0.31,0,0,126.03,0.29
+Wilton Manors,Island City Park Preserve,1.13,0,0,114.37,0.57
+Wilton Manors,M.E. DePalma Park,0.09,0,0,131.39,0.14
+Wilton Manors,Mickel Park,2.12,0,0,133.37,0.43
