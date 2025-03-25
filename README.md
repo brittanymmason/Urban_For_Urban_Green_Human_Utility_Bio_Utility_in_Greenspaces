@@ -1,4 +1,4 @@
-This repository contains all the code and files used in the analyses reported in "Urban greenspaces benefit both human utility and biodiversity" article, which is published in Urban Forestry & Urban Greening.
+This repository contains all the code and files used in the analyses reported in Miguez et al. 2025. Urban greenspaces benefit both human utility and biodiversity. Urban Forestry & Urban Greening. https://doi.org/10.1016/j.ufug.2025.128791 
 
 # R Folder
 
